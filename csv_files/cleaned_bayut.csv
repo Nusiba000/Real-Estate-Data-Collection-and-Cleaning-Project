@@ -1,0 +1,1810 @@
+title,price,location,rooms,size
+Villa,1200,"Al Buraimi, Al Buraimi",5.0,1
+Villa,1500,"Qantab, Muscat",5.0,1
+Apartment,1200,"Mahut, Al Wusta",3.0,1
+Villa,1500,"Al Sifah, Muscat",5.0,1
+Villa,1000,"Hamra, Al Dakhiliya",4.0,1
+Apartment,120000,"Al Sinainah, Al Buraimi",3.0,110
+Apartment,100000,"Al Duqum, Al Wusta",2.0,100
+Apartment,220000,"Al Duqum, Al Wusta",3.0,100
+Apartment,220000,"Taqah, Dhofar",2.0,112
+Apartment,22000,"Muqshin, Dhofar",2.0,112
+Villa,2000,"Bahla, Al Dakhiliya",3.0,1
+Villa,390000,"Muscat Hills, Muscat",3.0,471
+Apartment,81000,"Muscat Hills, Muscat",2.0,132
+Villa,125000,"Al Seeb, Muscat",6.0,363
+Villa,49000,"Barka, Al Batinah",3.0,345
+Villa,380000,"The Wave (Almouj), Muscat",5.0,502
+Villa,309000,"The Wave (Almouj), Muscat",4.0,420
+Villa,79999,"Al Amarat, Muscat",6.0,650
+Apartment,85000,"Al Ghubrah, Muscat",3.0,160
+Villa,295000,"The Wave (Almouj), Muscat",5.0,265
+Villa,74000,"Al Maabilah, Muscat",4.0,260
+Apartment,93000,"The Wave (Almouj), Muscat",1.0,107
+Apartment,67000,"Muscat Hills, Muscat",1.0,70
+Apartment,130000,"The Wave (Almouj), Muscat",2.0,149
+Villa,85000,"Salalah, Dhofar",2.0,120
+Villa,496000,"Qantab, Muscat",3.0,769
+Villa,442300,"Qantab, Muscat",4.0,769
+Villa,59000,"Al Amarat, Muscat",3.0,178
+Apartment,195000,"The Wave (Almouj), Muscat",3.0,235
+Villa,116500,"Sultan Haitham City, Muscat",3.0,194
+Villa,111700,"Sultan Haitham City, Muscat",3.0,194
+Villa,121200,"Sultan Haitham City, Muscat",3.0,205
+Villa,325000,"Muscat Hills, Muscat",4.0,423
+Apartment,55000,"Al Sifah, Muscat",1.0,59
+Apartment,198000,"The Wave (Almouj), Muscat",3.0,200
+Villa,98000,"Al Seeb, Muscat",7.0,300
+Villa,350000,"Muscat - Other, Muscat",4.0,460
+Apartment,88000,"Muscat Hills, Muscat",1.0,105
+Apartment,85034,"Yiti, Muscat",1.0,79
+Apartment,59000,"Ghala, Muscat",2.0,139
+Villa,59000,"Barka, Al Batinah",4.0,300
+Apartment,54000,"Qurum, Muscat",3.0,108
+Apartment,450000,"The Wave (Almouj), Muscat",2.0,183
+Apartment,95000,"Al Sifah, Muscat",2.0,129
+Apartment,99000,"Al Sifah, Muscat",2.0,129
+Apartment,85000,"Salalah, Dhofar",2.0,120
+Apartment,125000,"The Wave (Almouj), Muscat",2.0,139
+Apartment,74350,"Al Maabilah, Muscat",3.0,155
+Residential Land,12300,"Thumrait, Dhofar",,586
+Apartment,108990,"Al Maabilah, Muscat",3.0,155
+Villa,429000,"Madinat As Sultan Qaboos, Muscat",5.0,725
+Villa,205000,"Muscat Hills, Muscat",4.0,270
+Apartment,405000,"Qurum, Muscat",2.0,131
+Villa,480000,"The Wave (Almouj), Muscat",6.0,619
+Villa,62000,"Barka, Al Batinah",5.0,354
+Villa,350000,"Salalah, Dhofar",3.0,292
+Apartment,140000,"The Wave (Almouj), Muscat",2.0,127
+Apartment,100130,"Al Maabilah, Muscat",3.0,138
+Villa,578000,"The Wave (Almouj), Muscat",5.0,455
+Apartment,65000,"Al Sifah, Muscat",1.0,91
+Villa,905000,"Yiti, Muscat",5.0,405
+Villa,922000,"Yiti, Muscat",5.0,405
+Residential Land,6200,"Al Amarat, Muscat",,1
+Apartment,8000,"Wadi Bani Khalid, Al Sharqiya",2.0,900
+Chalet,59000,"Barka, Al Batinah",3.0,192
+Villa,900,"Al Sifah, Muscat",4.0,900
+Villa,85000,"Al Khoud, Muscat",4.0,283
+Apartment,60000,"Al Khuwair, Muscat",3.0,125
+Apartment,100000,"The Wave (Almouj), Muscat",1.0,90
+Apartment,89000,"The Wave (Almouj), Muscat",1.0,104
+Chalet,190000,"Al Sifah, Muscat",2.0,990
+Residential Land,31000,"Mirbat, Dhofar",,600
+Apartment,85000,"Muscat Hills, Muscat",2.0,120
+Apartment,20000,"Salalah, Dhofar",2.0,64
+Chalet,95000,"Misfah, Muscat",3.0,600
+Villa,105000,"Al Maabilah, Muscat",5.0,300
+Villa,137000,"Al Khoud, Muscat",5.0,420
+Villa,165000,"Al Khoud, Muscat",3.0,500
+Villa,160000,"Al Mawaleh, Muscat",6.0,408
+Apartment,55000,"Taqah, Dhofar",1.0,75
+Villa,232000,"Ansab, Muscat",7.0,664
+Apartment,135000,"The Wave (Almouj), Muscat",2.0,138
+Apartment,140000,"The Wave (Almouj), Muscat",2.0,127
+Apartment,39000,"Al Hail, Muscat",1.0,79
+Villa,78000,"Barka, Al Batinah",8.0,350
+Villa,274733,"Yiti, Muscat",3.0,238
+Villa,63500,"Barka, Al Batinah",5.0,327
+Villa,725000,"The Wave (Almouj), Muscat",6.0,606
+Villa,135000,"Salalah, Dhofar",2.0,124
+Residential Land,34000,"Barka, Al Batinah",,600
+Villa,140000,"Al Hail, Muscat",6.0,3
+Apartment,109000,"Taqah, Dhofar",2.0,130
+Apartment,68590,"Al Maabilah, Muscat",3.0,138
+Apartment,44500,"Ghala, Muscat",2.0,95
+Villa,35500,"Barka, Al Batinah",2.0,600
+Apartment,68032,"Al Seeb, Muscat",1.0,96
+Residential Land,5500,"Nizwa, Al Dakhiliya",,600
+Apartment,146500,"The Wave (Almouj), Muscat",2.0,125
+Apartment,80000,"Qurum, Muscat",2.0,137
+Apartment,63000,"Muscat Hills, Muscat",1.0,74
+Villa,1360000,"Al Mawaleh, Muscat",6.0,933
+Villa,52000,"Al Amarat, Muscat",3.0,399
+Apartment,59016,"Al Seeb, Muscat",1.0,83
+Residential Land,19000,"Ruwi, Muscat",,147
+Villa,44000,"Al Amarat, Muscat",4.0,208
+Villa,65000,"Barka, Al Batinah",5.0,233
+Apartment,63000,"Muscat Hills, Muscat",1.0,78
+Villa,1500000,"The Wave (Almouj), Muscat",6.0,907
+Villa,90000,"Al Maabilah, Muscat",3.0,600
+Apartment,37000,"Al Maabilah, Muscat",2.0,136
+Apartment,920000,"The Wave (Almouj), Muscat",4.0,421
+Apartment,38000,"Ghala, Muscat",1.0,68
+Apartment,245000,"The Wave (Almouj), Muscat",2.0,126
+Residential Land,3650,"Al Amarat, Muscat",,600
+Apartment,89000,"The Wave (Almouj), Muscat",1.0,104
+Apartment,45000,"Al Hail, Muscat",2.0,130
+Villa,240000,"Bosher, Muscat",5.0,404
+Villa,716000,"Yiti, Muscat",3.0,166
+Apartment,45000,"Salalah, Dhofar",,55
+Villa,154900,"Al Maabilah, Muscat",5.0,400
+Villa,227100,"Al Maabilah, Muscat",5.0,400
+Villa,203300,"Al Maabilah, Muscat",5.0,500
+Apartment,85000,"Muscat Hills, Muscat",2.0,135
+Residential Land,15000,"Azaiba, Muscat",,90
+Apartment,85034,"Yiti, Muscat",1.0,85
+Villa,238000,"Yiti, Muscat",4.0,256
+Apartment,155000,"Muscat - Other, Muscat",2.0,156
+Apartment,125000,"The Wave (Almouj), Muscat",1.0,70
+Apartment,69000,"Al Hail, Muscat",2.0,102
+Villa,210000,"Al Hail, Muscat",6.0,480
+Apartment,26500,"Al Seeb, Muscat",1.0,70
+Residential Land,105000,"Al Mawaleh, Muscat",,690
+Villa,588000,"The Wave (Almouj), Muscat",5.0,722
+Residential Land,15000,"Barka, Al Batinah",,300
+Villa,205000,"The Wave (Almouj), Muscat",4.0,175
+Villa,117000,"Al Khoud, Muscat",4.0,328
+Residential Land,25000,"Shinas, Al Batinah",,5
+Residential Land,31500,"Shinas, Al Batinah",,6
+Residential Land,4500,"Saham, Al Batinah",,607
+Villa,335000,"Al Sifah, Muscat",4.0,344
+Villa,47000,"Sumail, Al Dakhiliya",4.0,260
+Apartment,36500,"Al Maabilah, Muscat",3.0,126
+Residential Land,5200,"Saham, Al Batinah",,600
+Villa,455000,"Yiti, Muscat",3.0,120
+Villa,48000,"Sohar, Al Batinah",5.0,304
+Residential Land,100000,"Al Rustaq, Al Batinah",,3
+Residential Land,5950,"Al Masn'a, Al Batinah",,600
+Residential Land,9300,"Saham, Al Batinah",,757
+Apartment,23000,"Al Duqum, Al Wusta",1.0,35
+Villa,49000,"Al Rustaq, Al Batinah",4.0,293
+Residential Land,130000,"Al Maabilah, Muscat",,500
+Villa,105000,"Ansab, Muscat",5.0,422
+Apartment,135000,"The Wave (Almouj), Muscat",3.0,138
+Chalet,85000,"Suwaiq, Al Batinah",3.0,10
+Villa,39000,"Al Amarat, Muscat",3.0,423
+Apartment,112000,"Muscat Hills, Muscat",2.0,138
+Villa,174650,"Al Maabilah, Muscat",5.0,249
+Apartment,90675,"Muscat Hills, Muscat",2.0,108
+Apartment,65000,"Muscat Hills, Muscat",1.0,85
+Villa,165000,"Ansab, Muscat",7.0,300
+Apartment,96122,"Yiti, Muscat",1.0,68
+Apartment,45000,"Ghala, Muscat",2.0,99
+Apartment,298082,"Qurum, Muscat",2.0,132
+Villa,190000,"Al Sifah, Muscat",2.0,818
+Apartment,125000,"Salalah, Dhofar",3.0,111
+Villa,82000,"Nizwa, Al Dakhiliya",5.0,430
+Villa,160000,"Salalah, Dhofar",2.0,131
+Villa,1000000,"Al Buraimi, Al Buraimi",10.0,1
+Apartment,94000,"The Wave (Almouj), Muscat",1.0,107
+Villa,88000,"Al Maabilah, Muscat",6.0,781
+Apartment,63000,"Muscat Hills, Muscat",1.0,76
+Villa,235000,"Al Khoud, Muscat",4.0,417
+Apartment,63000,"Muscat Hills, Muscat",1.0,95
+Villa,178000,"Sultan Haitham City, Muscat",5.0,249
+Apartment,112000,"Muscat Hills, Muscat",2.0,138
+Residential Land,6200,"Ibra, Al Sharqiya",,600
+Apartment,54000,"Bosher, Muscat",3.0,116
+Villa,90000,"Salalah, Dhofar",2.0,120
+Apartment,42000,"Al Maabilah, Muscat",,50
+Residential Land,10500,"Sumail, Al Dakhiliya",,600
+Apartment,63000,"Muscat Hills, Muscat",1.0,76
+Apartment,85000,"Muscat Hills, Muscat",1.0,95
+Villa,27000,"Bosher, Muscat",2.0,75
+Villa,238891,"Yiti, Muscat",3.0,253
+Villa,340000,"Sultan Haitham City, Muscat",4.0,388
+Apartment,160000,"The Wave (Almouj), Muscat",2.0,200
+Residential Land,9500,"Ibra, Al Sharqiya",,680
+Apartment,80000,"Muscat Hills, Muscat",2.0,129
+Villa,310000,"Sultan Haitham City, Muscat",7.0,413
+Apartment,222240,"Al Seeb, Muscat",4.0,339
+Villa,75000,"Al Amarat, Muscat",5.0,200
+Apartment,60684,"Muscat Hills, Muscat",1.0,78
+Residential Land,16000,"Salalah, Dhofar",,600
+Apartment,64890,"Muscat Hills, Muscat",1.0,76
+Apartment,103000,"The Wave (Almouj), Muscat",1.0,91
+Apartment,51000,"Bosher, Muscat",4.0,114
+Villa,340000,"Sultan Haitham City, Muscat",4.0,388
+Villa,59000,"Barka, Al Batinah",4.0,300
+Villa,349549,"Sultan Haitham City, Muscat",4.0,388
+Villa,100000,"Barka, Al Batinah",3.0,600
+Apartment,110000,"The Wave (Almouj), Muscat",1.0,95
+Chalet,220000,"Barka, Al Batinah",4.0,1
+Residential Land,23300,"Barka, Al Batinah",,600
+Villa,65000,"Al Maabilah, Muscat",4.0,600
+Villa,90000,"Al Maabilah, Muscat",7.0,300
+Residential Land,120000,"Al Maabilah, Muscat",,400
+Villa,200000,"Salalah, Dhofar",2.0,141
+Villa,256540,"Salalah, Dhofar",3.0,181
+Apartment,47000,"Muscat Hills, Muscat",,49
+Apartment,82000,"Al Sifah, Muscat",2.0,110
+Apartment,95000,"Muscat Hills, Muscat",2.0,142
+Apartment,180000,"The Wave (Almouj), Muscat",2.0,133
+Villa,104525,"Salalah, Dhofar",1.0,79
+Villa,65000,"Al Seeb, Muscat",4.0,600
+Villa,108000,"Al Mawaleh, Muscat",4.0,240
+Villa,419000,"Madinat As Sultan Qaboos, Muscat",5.0,720
+Apartment,20900,"Al Maabilah, Muscat",2.0,84
+Residential Land,7500,"Al Khaboura, Al Batinah",,1
+Apartment,77000,"The Wave (Almouj), Muscat",1.0,107
+Apartment,45700,"Ghala, Muscat",1.0,91
+Villa,1400000,"Al Sifah, Muscat",5.0,2
+Apartment,57000,"Al Hail, Muscat",2.0,84
+Residential Land,340000,"Bosher, Muscat",,1
+Chalet,220000,"Al Sifah, Muscat",3.0,177
+Apartment,225000,"The Wave (Almouj), Muscat",2.0,157
+Villa,37000,"Barka, Al Batinah",4.0,180
+Apartment,172082,"Qurum, Muscat",1.0,73
+Apartment,140000,"The Wave (Almouj), Muscat",1.0,114
+Apartment,85000,"Salalah, Dhofar",2.0,120
+Apartment,130000,"Al Mawaleh, Muscat",3.0,566
+Apartment,95000,"Salalah, Dhofar",1.0,76
+Apartment,110000,"The Wave (Almouj), Muscat",1.0,107
+Chalet,51000,"Barka, Al Batinah",2.0,600
+Apartment,35000,"Salalah, Dhofar",3.0,150
+Villa,76000,"Al Maabilah, Muscat",4.0,345
+Apartment,70850,"Al Maabilah, Muscat",2.0,109
+Villa,980000,"Al Sifah, Muscat",5.0,2
+Apartment,60000,"Al Sifah, Muscat",1.0,59
+Villa,413968,"Qantab, Muscat",4.0,422
+Apartment,140000,"The Wave (Almouj), Muscat",2.0,140
+Villa,185000,"The Wave (Almouj), Muscat",2.0,128
+Apartment,70850,"Sultan Haitham City, Muscat",2.0,109
+Apartment,163050,"Sultan Haitham City, Muscat",3.0,217
+Apartment,53300,"Sultan Haitham City, Muscat",1.0,82
+Residential Land,100000,"Al Amarat, Muscat",,400
+Residential Land,140000,"Ansab, Muscat",,734
+Residential Land,100000,"Bosher, Muscat",,500
+Apartment,58500,"Sultan Haitham City, Muscat",1.0,70
+Villa,250000,"Al Sifah, Muscat",3.0,153
+Apartment,255000,"The Wave (Almouj), Muscat",2.0,157
+Villa,225000,"The Wave (Almouj), Muscat",4.0,176
+Apartment,85000,"Muscat Hills, Muscat",2.0,120
+Residential Land,12200,"Barka, Al Batinah",,810
+Villa,95000,"Misfah, Muscat",4.0,215
+Apartment,46150,"Al Maabilah, Muscat",1.0,71
+Apartment,923409,"Muscat - Other, Muscat",4.0,424
+Apartment,288115,"Qantab, Muscat",3.0,361
+Villa,1100000,"Suwaiq, Al Batinah",6.0,15
+Villa,79000,"Salalah, Dhofar",1.0,69
+Villa,140000,"Salalah, Dhofar",2.0,110
+Villa,98000,"Al Seeb, Muscat",7.0,425
+Villa,140000,"Al Hail, Muscat",5.0,320
+Residential Land,16000,"Barka, Al Batinah",,630
+Apartment,125000,"The Wave (Almouj), Muscat",1.0,110
+Apartment,29000,"Darsait, Muscat",2.0,90
+Apartment,61000,"Al Sifah, Muscat",1.0,64
+Apartment,50000,"Salalah, Dhofar",1.0,55
+Residential Land,27000,"Al Amarat, Muscat",,333
+Apartment,100000,"The Wave (Almouj), Muscat",1.0,107
+Villa,2800000,"The Wave (Almouj), Muscat",6.0,1
+Apartment,88000,"Ghala, Muscat",2.0,139
+Residential Land,6700,"Saham, Al Batinah",,1
+Residential Land,20500,"Sohar, Al Batinah",,600
+Villa,149695,"Al Maabilah, Muscat",5.0,249
+Apartment,50000,"Salalah, Dhofar",1.0,65
+Villa,175000,"Sultan Haitham City, Muscat",3.0,220
+Villa,256000,"Muscat Hills, Muscat",5.0,258
+Apartment,68000,"Al Sifah, Muscat",1.0,91
+Apartment,45000,"Al Sifah, Muscat",,61
+Residential Land,135000,"Al Maabilah, Muscat",,400
+Villa,66000,"Al Maabilah, Muscat",3.0,223
+Residential Land,95000,"Bosher, Muscat",,439
+Villa,25000,"Barka, Al Batinah",3.0,447
+Apartment,320000,"Qantab, Muscat",3.0,361
+Residential Land,145000,"Bosher, Muscat",,783
+Villa,185000,"Al Ghubrah, Muscat",4.0,475
+Residential Land,100,"Adam, Al Dakhiliya",,700
+Apartment,110000,"Al Sifah, Muscat",2.0,124
+Villa,137000,"Al Khoud, Muscat",5.0,420
+Apartment,204000,"Sultan Haitham City, Muscat",4.0,272
+Residential Land,48000,"Al Khaboura, Al Batinah",,4
+Apartment,125000,"The Wave (Almouj), Muscat",1.0,110
+Apartment,138000,"Qantab, Muscat",1.0,118
+Villa,170650,"Salalah, Dhofar",2.0,133
+Apartment,91180,"Qantab, Muscat",1.0,79
+Apartment,25000,"Al Amarat, Muscat",2.0,95
+Residential Land,18000,"Al Buraimi, Al Buraimi",,1
+Residential Land,5000,"Izki, Al Dakhiliya",,600
+Apartment,87735,"Al Seeb, Muscat",2.0,134
+Apartment,94000,"The Wave (Almouj), Muscat",1.0,90
+Villa,80000,"Al Khoud, Muscat",5.0,376
+Apartment,98000,"The Wave (Almouj), Muscat",1.0,84
+Apartment,80000,"The Wave (Almouj), Muscat",1.0,61
+Villa,111700,"Sultan Haitham City, Muscat",3.0,194
+Apartment,59500,"Muscat Hills, Muscat",1.0,74
+Apartment,58000,"Al Sifah, Muscat",1.0,76
+Villa,227700,"Al Maabilah, Muscat",5.0,444
+Apartment,90085,"Yiti, Muscat",1.0,66
+Villa,146000,"Bosher, Muscat",7.0,240
+Villa,100000,"Al Khoud, Muscat",5.0,300
+Residential Land,78000,"Nizwa, Al Dakhiliya",,750
+Villa,143000,"Al Khoud, Muscat",5.0,378
+Residential Land,100000,"Wadi Al Ma'awal, Al Batinah",,600
+Apartment,110000,"Sultan Haitham City, Muscat",2.0,147
+Apartment,75000,"Bosher, Muscat",2.0,103
+Villa,115000,"Ansab, Muscat",5.0,340
+Residential Land,9500,"Sumail, Al Dakhiliya",,600
+Residential Land,200000,"Al Khoud, Muscat",,500
+Apartment,8500,"Al Seeb, Muscat",1.0,44
+Villa,75000,"Bosher, Muscat",7.0,332
+Villa,55000,"Ibra, Al Sharqiya",11.0,300
+Apartment,55000,"Qurum, Muscat",3.0,94
+Villa,335850,"Salalah, Dhofar",4.0,243
+Residential Land,20500,"Barka, Al Batinah",,589
+Residential Land,115000,"Al Mawaleh, Muscat",,600
+Residential Land,70000,"Al Amarat, Muscat",,666
+Apartment,88500,"Muscat Hills, Muscat",2.0,111
+Apartment,58000,"Azaiba, Muscat",2.0,117
+Residential Land,1000,"Al Amarat, Muscat",,600
+Apartment,20000,"Barka, Al Batinah",3.0,156
+Apartment,92000,"Muscat Hills, Muscat",2.0,117
+Villa,87000,"Nizwa, Al Dakhiliya",6.0,525
+Residential Land,140,"Barka, Al Batinah",,17
+Residential Land,7300,"Bahla, Al Dakhiliya",,835
+Residential Land,1010,"Al Maabilah, Muscat",,6
+Residential Land,13500,"Bahla, Al Dakhiliya",,630
+Residential Land,4000,"Al Rustaq, Al Batinah",,500
+Apartment,30000,"Bosher, Muscat",1.0,60
+Residential Land,4500,"Al Amarat, Muscat",,600
+Residential Land,10000,"Barka, Al Batinah",,600
+Apartment,58000,"Al Sifah, Muscat",1.0,64
+Residential Land,23000,"Barka, Al Batinah",,600
+Villa,176000,"Al Maabilah, Muscat",3.0,240
+Residential Land,6000,"Al Mudaibi, Al Sharqiya",,600
+Residential Land,12500,"Masira, Al Sharqiya",,1
+Apartment,39000,"Al Hail, Muscat",1.0,79
+Residential Land,12500,"Ibri, Al Dhahirah",,1
+Apartment,165000,"The Wave (Almouj), Muscat",1.0,83
+Villa,406960,"Qantab, Muscat",3.0,426
+Apartment,46150,"Sultan Haitham City, Muscat",1.0,71
+Residential Land,55000,"Barka, Al Batinah",,1
+Residential Land,65000,"Al Seeb, Muscat",,827
+Villa,112000,"Al Khoud, Muscat",6.0,390
+Apartment,50000,"Bosher, Muscat",3.0,122
+Villa,115000,"Qurum, Muscat",4.0,260
+Villa,150000,"Azaiba, Muscat",7.0,460
+Apartment,74000,"Salalah, Dhofar",2.0,61
+Residential Land,5000,"Al Buraimi, Al Buraimi",,624
+Residential Land,63000,"Barka, Al Batinah",,1
+Apartment,100000,"Salalah, Dhofar",1.0,85
+Villa,190000,"Ansab, Muscat",6.0,527
+Villa,70000,"Al Amarat, Muscat",5.0,534
+Apartment,103000,"Muscat Hills, Muscat",2.0,168
+Villa,50000,"Barka, Al Batinah",3.0,176
+Villa,50000,"Sohar, Al Batinah",2.0,610
+Residential Land,55000,"Al Qabil, Al Sharqiya",,6
+Residential Land,14000,"Al 'Awabi, Al Batinah",,500
+Apartment,50070,"Sultan Haitham City, Muscat",1.0,67
+Villa,330000,"Muscat Hills, Muscat",4.0,280
+Apartment,248000,"The Wave (Almouj), Muscat",3.0,245
+Residential Land,14900,"Ja'alan Bani Bu Ali, Al Sharqiya",,656
+Apartment,144554,"Yiti, Muscat",2.0,117
+Apartment,26000,"Al Maabilah, Muscat",2.0,102
+Villa,65000,"Al Amarat, Muscat",5.0,300
+Chalet,78500,"Barka, Al Batinah",2.0,150
+Villa,125000,"Al Mawaleh, Muscat",4.0,634
+Apartment,35500,"Bosher, Muscat",1.0,79
+Apartment,29000,"Bosher, Muscat",1.0,67
+Villa,178000,"Al Maabilah, Muscat",5.0,249
+Residential Land,20000,"Barka, Al Batinah",,479
+Apartment,41600,"Sultan Haitham City, Muscat",,56
+Residential Land,18000,"Barka, Al Batinah",,600
+Apartment,35000,"Ghala, Muscat",1.0,67
+Apartment,27000,"Mirbat, Dhofar",2.0,70
+Residential Land,38500,"Al Maabilah, Muscat",,600
+Residential Land,57000,"Al Seeb, Muscat",,119
+Villa,185000,"The Wave (Almouj), Muscat",2.0,128
+Residential Land,5150,"Barka, Al Batinah",,609
+Apartment,65000,"Muscat Hills, Muscat",,46
+Apartment,95326,"Yiti, Muscat",1.0,59
+Residential Land,10000,"Saham, Al Batinah",,600
+Villa,950000,"Qantab, Muscat",5.0,750
+Apartment,140375,"Qantab, Muscat",2.0,115
+Villa,356040,"Qantab, Muscat",3.0,357
+Apartment,140000,"Al Sifah, Muscat",2.0,159
+Chalet,205000,"Al Sifah, Muscat",3.0,177
+Apartment,70850,"Sultan Haitham City, Muscat",2.0,109
+Apartment,204000,"Sultan Haitham City, Muscat",4.0,272
+Apartment,163050,"Sultan Haitham City, Muscat",3.0,217
+Villa,154000,"Sultan Haitham City, Muscat",3.0,209
+Apartment,29500,"Al Khoud, Muscat",1.0,60
+Residential Land,133000,"Al Maabilah, Muscat",,400
+Residential Land,20000,"Al Amarat, Muscat",,612
+Apartment,110000,"The Wave (Almouj), Muscat",1.0,88
+Apartment,72000,"Muscat Hills, Muscat",2.0,108
+Residential Land,14900,"Barka, Al Batinah",,300
+Apartment,41000,"Sultan Haitham City, Muscat",,71
+Residential Land,10900,"Al Amarat, Muscat",,675
+Apartment,43000,"Al Khoud, Muscat",2.0,110
+Apartment,67000,"Muscat Hills, Muscat",1.0,96
+Apartment,39000,"Azaiba, Muscat",2.0,98
+Residential Land,170000,"Ibra, Al Sharqiya",,75
+Villa,900000,"Al Hail, Muscat",3.0,1
+Apartment,30000,"Bosher, Muscat",1.0,57
+Residential Land,11000,"Ibri, Al Dhahirah",,1
+Apartment,68000,"Bosher, Muscat",3.0,165
+Villa,45500,"Al Khaboura, Al Batinah",3.0,235
+Residential Land,180000,"Al Mawaleh, Muscat",,900
+Apartment,54000,"Azaiba, Muscat",2.0,101
+Apartment,56500,"Al Maabilah, Muscat",1.0,50
+Apartment,300000,"Muscat - Other, Muscat",3.0,100
+Villa,111700,"Sultan Haitham City, Muscat",3.0,194
+Apartment,50000,"Sultan Haitham City, Muscat",1.0,75
+Apartment,220000,"Qantab, Muscat",2.0,199
+Villa,140000,"Al Mawaleh, Muscat",6.0,600
+Apartment,298000,"Qantab, Muscat",3.0,355
+Villa,224000,"Muscat Hills, Muscat",3.0,280
+Villa,583890,"Qantab, Muscat",4.0,422
+Residential Land,200000,"Misfah, Muscat",,1
+Villa,90000,"Al Khoud, Muscat",5.0,293
+Apartment,45500,"Salalah, Dhofar",,38
+Villa,666000,"The Wave (Almouj), Muscat",7.0,524
+Residential Land,50000,"Ibra, Al Sharqiya",,2
+Apartment,60486,"Bosher, Muscat",2.0,114
+Apartment,60995,"Bosher, Muscat",2.0,100
+Apartment,89255,"Yiti, Muscat",1.0,58
+Residential Land,180000,"Al Seeb, Muscat",,1
+Apartment,139000,"The Wave (Almouj), Muscat",1.0,118
+Apartment,470486,"The Wave (Almouj), Muscat",2.0,203
+Residential Land,70000,"Ruwi, Muscat",,531
+Apartment,57000,"Al Hail, Muscat",2.0,165
+Residential Land,355000,"Al Maabilah, Muscat",,1
+Apartment,117000,"Al Sifah, Muscat",2.0,124
+Apartment,135000,"Al Sifah, Muscat",3.0,157
+Apartment,48100,"Sultan Haitham City, Muscat",1.0,74
+Apartment,133000,"The Wave (Almouj), Muscat",1.0,83
+Villa,60000,"Dima and Al Taaiyin, Al Sharqiya",4.0,1
+Apartment,38000,"Sultan Haitham City, Muscat",1.0,52
+Residential Land,2300,"Ibri, Al Dhahirah",,600
+Apartment,846945,"The Wave (Almouj), Muscat",4.0,383
+Apartment,88289,"Yiti, Muscat",1.0,66
+Apartment,72100,"Salalah, Dhofar",1.0,78
+Villa,427400,"Qantab, Muscat",4.0,422
+Residential Land,11500,"Saham, Al Batinah",,1
+Apartment,20000,"Salalah, Dhofar",2.0,83
+Villa,27000,"Al Masn'a, Al Batinah",4.0,195
+Apartment,144000,"The Wave (Almouj), Muscat",2.0,125
+Apartment,318173,"The Wave (Almouj), Muscat",1.0,140
+Villa,149000,"Al Mawaleh, Muscat",5.0,601
+Villa,75000,"Salalah, Dhofar",1.0,77
+Villa,65000,"Salalah, Dhofar",1.0,78
+Villa,70000,"Salalah, Dhofar",1.0,78
+Apartment,47000,"Salalah, Dhofar",1.0,64
+Villa,45000,"Al Amarat, Muscat",3.0,600
+Apartment,35500,"Bosher, Muscat",1.0,79
+Apartment,599600,"Muscat - Other, Muscat",3.0,262
+Villa,80000,"Al Amarat, Muscat",6.0,450
+Apartment,90018,"Yiti, Muscat",2.0,93
+Apartment,50000,"Salalah, Dhofar",1.0,40
+Apartment,55070,"Sultan Haitham City, Muscat",2.0,114
+Apartment,49020,"Sultan Haitham City, Muscat",1.0,72
+Apartment,77250,"Salalah, Dhofar",1.0,76
+Apartment,144900,"The Wave (Almouj), Muscat",2.0,119
+Apartment,70000,"Madinat As Sultan Qaboos, Muscat",2.0,132
+Villa,68000,"Al Seeb, Muscat",4.0,260
+Apartment,74000,"Yiti, Muscat",1.0,83
+Apartment,50070,"Sultan Haitham City, Muscat",1.0,67
+Residential Land,5000,"Ibri, Al Dhahirah",,600
+Residential Land,75000,"Bosher, Muscat",,600
+Residential Land,22000,"Al Masn'a, Al Batinah",,4
+Apartment,145000,"The Wave (Almouj), Muscat",2.0,127
+Villa,214500,"Al Maabilah, Muscat",4.0,411
+Residential Land,5300,"Al Amarat, Muscat",,645
+Villa,125000,"Al Khoud, Muscat",9.0,400
+Apartment,450000,"The Wave (Almouj), Muscat",2.0,185
+Apartment,31750,"Bosher, Muscat",1.0,67
+Villa,49000,"Al Maabilah, Muscat",3.0,176
+Apartment,37000,"Al Maabilah, Muscat",2.0,140
+Villa,25000,"Saham, Al Batinah",6.0,250
+Residential Land,22500,"Al Amarat, Muscat",,450
+Apartment,38500,"Al Mawaleh, Muscat",2.0,101
+Apartment,41414,"Sultan Haitham City, Muscat",,52
+Apartment,69815,"Sultan Haitham City, Muscat",2.0,98
+Residential Land,2150,"Shinas, Al Batinah",,630
+Villa,1406000,"Muscat - Other, Muscat",6.0,907
+Apartment,85000,"Muscat Hills, Muscat",2.0,106
+Residential Land,5000,"Saham, Al Batinah",,662
+Residential Land,27000,"Salalah, Dhofar",,646
+Residential Land,12000,"Al Rustaq, Al Batinah",,600
+Villa,140000,"Al Khoud, Muscat",5.0,330
+Apartment,40000,"Al Maabilah, Muscat",3.0,120
+Apartment,28000,"Al Maabilah, Muscat",3.0,123
+Apartment,495000,"The Wave (Almouj), Muscat",4.0,325
+Villa,490000,"The Wave (Almouj), Muscat",5.0,519
+Residential Land,7500,"Al Masn'a, Al Batinah",,529
+Apartment,19000,"Al Maabilah, Muscat",2.0,100
+Apartment,55000,"Salalah, Dhofar",,33
+Residential Land,7000,"Al Amarat, Muscat",,600
+Residential Land,13000,"Barka, Al Batinah",,600
+Residential Land,35000,"Al Seeb, Muscat",,600
+Chalet,181000,"Al Sifah, Muscat",2.0,144
+Residential Land,10000,"Saham, Al Batinah",,1
+Residential Land,4000,"Ibri, Al Dhahirah",,640
+Residential Land,70000,"Bidbid, Al Dakhiliya",,2
+Villa,201300,"Al Maabilah, Muscat",3.0,395
+Residential Land,65000,"Al Rustaq, Al Batinah",,960
+Villa,175000,"Al Maabilah, Muscat",4.0,333
+Villa,175000,"Al Maabilah, Muscat",4.0,333
+Residential Land,49000,"Suwaiq, Al Batinah",,1
+Residential Land,3500,"Thumrait, Dhofar",,600
+Villa,80000,"Al Khoud, Muscat",6.0,300
+Villa,295000,"The Wave (Almouj), Muscat",3.0,269
+Apartment,74500,"Yiti, Muscat",1.0,59
+Residential Land,35000,"Barka, Al Batinah",,600
+Residential Land,25000,"Barka, Al Batinah",,600
+Residential Land,750000,"Al Maabilah, Muscat",,2
+Villa,49000,"Al Maabilah, Muscat",3.0,176
+Apartment,29000,"Bosher, Muscat",1.0,67
+Apartment,73470,"Sultan Haitham City, Muscat",2.0,109
+Residential Land,75000,"Barka, Al Batinah",,1
+Apartment,55000,"Qurum, Muscat",3.0,94
+Apartment,100000,"Al Khuwair, Muscat",2.0,1
+Residential Land,11000,"Al Masn'a, Al Batinah",,1
+Residential Land,3300,"Suwaiq, Al Batinah",,648
+Apartment,22000,"Barka, Al Batinah",2.0,107
+Apartment,14000,"Nizwa, Al Dakhiliya",3.0,102
+Residential Land,11000,"Nizwa, Al Dakhiliya",,600
+Residential Land,23500,"Nizwa, Al Dakhiliya",,690
+Apartment,47000,"Salalah, Dhofar",,38
+Villa,483997,"The Wave (Almouj), Muscat",4.0,314
+Villa,575000,"The Wave (Almouj), Muscat",5.0,549
+Villa,483997,"The Wave (Almouj), Muscat",4.0,314
+Residential Land,13000,"Barka, Al Batinah",,324
+Apartment,95790,"The Wave (Almouj), Muscat",1.0,108
+Apartment,95790,"The Wave (Almouj), Muscat",1.0,107
+Villa,85000,"Al Amarat, Muscat",7.0,440
+Residential Land,6500,"Al Masn'a, Al Batinah",,609
+Residential Land,6500,"Al Masn'a, Al Batinah",,609
+Apartment,20000,"Misfah, Muscat",1.0,56
+Residential Land,810000,"Azaiba, Muscat",,2
+Villa,43000,"Al Masn'a, Al Batinah",5.0,230
+Residential Land,100000,"Misfah, Muscat",,400
+Villa,57000,"Al Amarat, Muscat",3.0,211
+Villa,40000,"Ibra, Al Sharqiya",3.0,200
+Residential Land,23000,"Barka, Al Batinah",,602
+Residential Land,820,"Al Bustan, Muscat",,11
+Apartment,184350,"Yiti, Muscat",1.0,96
+Apartment,80495,"Bosher, Muscat",3.0,137
+Villa,65000,"Salalah, Dhofar",1.0,78
+Apartment,72000,"Al Sifah, Muscat",1.0,54
+Apartment,26000,"Al Maabilah, Muscat",2.0,11
+Residential Land,44000,"Barka, Al Batinah",,431
+Villa,76500,"Al Amarat, Muscat",4.0,600
+Residential Land,4000000,"Madinat As Sultan Qaboos, Muscat",,19
+Villa,84000,"Al Khoud, Muscat",8.0,344
+Villa,445000,"The Wave (Almouj), Muscat",4.0,314
+Villa,55000,"Barka, Al Batinah",4.0,300
+Villa,110000,"Al Hail, Muscat",6.0,623
+Residential Land,15000,"Barka, Al Batinah",,740
+Villa,680000,"Al Ghubrah, Muscat",7.0,663
+Villa,379496,"Muscat Hills, Muscat",3.0,356
+Villa,95000,"Al Mawaleh, Muscat",4.0,300
+Villa,570000,"The Wave (Almouj), Muscat",5.0,840
+Villa,55000,"Al Maabilah, Muscat",2.0,531
+Apartment,50070,"Sultan Haitham City, Muscat",1.0,67
+Villa,1480000,"The Wave (Almouj), Muscat",5.0,1
+Apartment,25500,"Al Maabilah, Muscat",2.0,100
+Villa,4200000,"The Wave (Almouj), Muscat",6.0,1
+Apartment,48957,"Sultan Haitham City, Muscat",1.0,71
+Villa,4200000,"The Wave (Almouj), Muscat",6.0,1
+Apartment,132870,"The Wave (Almouj), Muscat",2.0,135
+Residential Land,42000,"Suwaiq, Al Batinah",,3
+Villa,250000,"Ansab, Muscat",6.0,640
+Apartment,150000,"The Wave (Almouj), Muscat",2.0,119
+Villa,300000,"Bosher, Muscat",5.0,665
+Apartment,50000,"Salalah, Dhofar",,38
+Apartment,455015,"Al Maabilah, Muscat",5.0,987
+Apartment,88000,"The Wave (Almouj), Muscat",1.0,88
+Residential Land,21900,"Barka, Al Batinah",,600
+Residential Land,10200,"Al Amarat, Muscat",,600
+Apartment,41995,"Bosher, Muscat",1.0,69
+Villa,305000,"The Wave (Almouj), Muscat",3.0,247
+Apartment,43000,"Salalah, Dhofar",,38
+Apartment,185000,"The Wave (Almouj), Muscat",3.0,192
+Apartment,24000,"Al Maabilah, Muscat",2.0,92
+Villa,430000,"Yiti, Muscat",4.0,288
+Residential Land,58000,"Bosher, Muscat",,300
+Apartment,49000,"Al Hail, Muscat",2.0,109
+Apartment,144000,"Salalah, Dhofar",3.0,195
+Apartment,95000,"Al Sifah, Muscat",2.0,124
+Apartment,90000,"Al Sifah, Muscat",2.0,124
+Villa,140000,"Salalah, Dhofar",2.0,122
+Apartment,45000,"Darsait, Muscat",2.0,147
+Apartment,97000,"The Wave (Almouj), Muscat",1.0,86
+Apartment,64000,"Muscat Hills, Muscat",1.0,93
+Apartment,47000,"Salalah, Dhofar",1.0,65
+Apartment,80000,"The Wave (Almouj), Muscat",1.0,64
+Villa,299999,"The Wave (Almouj), Muscat",4.0,276
+Villa,41000,"Al Maabilah, Muscat",3.0,175
+Villa,1427000,"The Wave (Almouj), Muscat",5.0,1
+Residential Land,13300,"Al Amarat, Muscat",,600
+Apartment,31500,"Al Maabilah, Muscat",3.0,126
+Villa,110000,"Salalah, Dhofar",6.0,527
+Residential Land,10900,"Barka, Al Batinah",,708
+Apartment,104970,"Sultan Haitham City, Muscat",3.0,154
+Residential Land,12000,"Barka, Al Batinah",,600
+Villa,27000,"Masira, Al Sharqiya",2.0,600
+Apartment,98000,"Muscat Hills, Muscat",2.0,107
+Villa,130000,"Al Seeb, Muscat",3.0,330
+Residential Land,62000,"Al Amarat, Muscat",,452
+Apartment,150000,"The Wave (Almouj), Muscat",2.0,165
+Villa,210000,"Muscat Hills, Muscat",4.0,400
+Villa,310000,"Muscat Hills, Muscat",4.0,450
+Apartment,210000,"The Wave (Almouj), Muscat",2.0,145
+Apartment,55000,"Salalah, Dhofar",1.0,96
+Residential Land,89000,"Al Masn'a, Al Batinah",,619
+Apartment,127500,"The Wave (Almouj), Muscat",1.0,110
+Apartment,47000,"Bosher, Muscat",1.0,70
+Apartment,122540,"Yiti, Muscat",1.0,66
+Villa,330750,"Qantab, Muscat",3.0,495
+Residential Land,82000,"Al Amarat, Muscat",,7
+Residential Land,14900,"Al Seeb, Muscat",,300
+Villa,192000,"Bosher, Muscat",6.0,420
+Residential Land,150000,"Barka, Al Batinah",,3
+Apartment,31000,"Al Maabilah, Muscat",3.0,126
+Villa,84000,"Sohar, Al Batinah",6.0,346
+Apartment,67000,"Muscat Hills, Muscat",1.0,74
+Apartment,52000,"Ghala, Muscat",2.0,96
+Villa,46000,"Al Qabil, Al Sharqiya",3.0,600
+Residential Land,6500,"Sumail, Al Dakhiliya",,600
+Apartment,136267,"Yiti, Muscat",2.0,93
+Apartment,127000,"The Wave (Almouj), Muscat",1.0,93
+Villa,64000,"Salalah, Dhofar",1.0,78
+Villa,116500,"Sultan Haitham City, Muscat",3.0,147
+Apartment,105000,"The Wave (Almouj), Muscat",1.0,99
+Apartment,66950,"Salalah, Dhofar",1.0,78
+Apartment,65000,"Al Sifah, Muscat",1.0,63
+Apartment,41000,"Qurum, Muscat",1.0,65
+Apartment,188000,"The Wave (Almouj), Muscat",2.0,138
+Villa,175000,"Al Seeb, Muscat",4.0,333
+Apartment,220000,"The Wave (Almouj), Muscat",2.0,145
+Villa,320000,"Al Sifah, Muscat",4.0,1
+Villa,1480000,"The Wave (Almouj), Muscat",5.0,1
+Residential Land,10000,"Barka, Al Batinah",,600
+Residential Land,5000,"Al Amarat, Muscat",,600
+Apartment,93000,"The Wave (Almouj), Muscat",1.0,90
+Residential Land,13000,"Nizwa, Al Dakhiliya",,1
+Residential Land,235000,"Bosher, Muscat",,1
+Residential Land,105000,"Al Mawaleh, Muscat",,689
+Apartment,48957,"Sultan Haitham City, Muscat",,71
+Villa,79000,"Al Maabilah, Muscat",3.0,600
+Villa,135000,"Al Khoud, Muscat",7.0,484
+Villa,629000,"The Wave (Almouj), Muscat",5.0,676
+Villa,605000,"The Wave (Almouj), Muscat",5.0,722
+Residential Land,6800,"Al Amarat, Muscat",,600
+Villa,54000,"Barka, Al Batinah",5.0,304
+Apartment,110640,"Al Maabilah, Muscat",3.0,196
+Residential Land,9500,"Qurayyat, Muscat",,786
+Apartment,21500,"Al Maabilah, Muscat",2.0,84
+Villa,85000,"Salalah, Dhofar",1.0,78
+Residential Land,79000,"Bosher, Muscat",,500
+Apartment,105000,"The Wave (Almouj), Muscat",1.0,99
+Apartment,48600,"Sultan Haitham City, Muscat",1.0,67
+Villa,110000,"Qurum, Muscat",6.0,209
+Villa,85000,"Al Maabilah, Muscat",4.0,311
+Residential Land,37000,"Barka, Al Batinah",,1
+Apartment,21500,"Al Maabilah, Muscat",2.0,84
+Villa,320000,"Yiti, Muscat",3.0,357
+Villa,1400000,"Al Sifah, Muscat",5.0,650
+Apartment,52000,"Ghala, Muscat",2.0,100
+Residential Land,79000,"Al Rusayl, Muscat",,1
+Apartment,105000,"Bosher, Muscat",3.0,242
+Apartment,100000,"Al Sifah, Muscat",2.0,121
+Apartment,73000,"Al Sifah, Muscat",2.0,120
+Apartment,220000,"The Wave (Almouj), Muscat",2.0,145
+Residential Land,4300,"Al Mudaibi, Al Sharqiya",,600
+Apartment,135000,"Yiti, Muscat",2.0,93
+Apartment,220000,"The Wave (Almouj), Muscat",2.0,145
+Villa,517000,"The Wave (Almouj), Muscat",5.0,540
+Residential Land,290000,"Qurum, Muscat",,1
+Chalet,139000,"Barka, Al Batinah",4.0,6
+Apartment,55319,"Sohar, Al Batinah",2.0,116
+Villa,105000,"Al Ghubrah, Muscat",4.0,386
+Apartment,62008,"Al Maabilah, Muscat",1.0,95
+Villa,57000,"Saham, Al Batinah",8.0,600
+Apartment,48902,"Bosher, Muscat",1.0,93
+Residential Land,3700,"Suwaiq, Al Batinah",,662
+Villa,120000,"Al Mawaleh, Muscat",12.0,720
+Villa,720000,"The Wave (Almouj), Muscat",5.0,720
+Residential Land,24000,"Bidbid, Al Dakhiliya",,600
+Apartment,80835,"Al Maabilah, Muscat",2.0,132
+Apartment,46627,"Al Maabilah, Muscat",,72
+Apartment,62000,"Sultan Haitham City, Muscat",1.0,95
+Apartment,110640,"Sultan Haitham City, Muscat",3.0,196
+Apartment,87735,"Al Khoud, Muscat",2.0,133
+Apartment,113925,"Al Khoud, Muscat",3.0,173
+Apartment,222240,"Al Khoud, Muscat",4.0,360
+Apartment,210000,"Barr Al Jissah, Muscat",3.0,200
+Apartment,46627,"Sultan Haitham City, Muscat",,75
+Villa,32000,"Suwaiq, Al Batinah",2.0,625
+Apartment,53000,"Al Sifah, Muscat",1.0,91
+Apartment,58000,"Al Ghubrah, Muscat",2.0,100
+Apartment,50000,"Al Sifah, Muscat",1.0,61
+Villa,446000,"The Wave (Almouj), Muscat",4.0,314
+Apartment,23700,"Al Amarat, Muscat",3.0,118
+Apartment,115000,"The Wave (Almouj), Muscat",1.0,159
+Apartment,80835,"Sultan Haitham City, Muscat",2.0,132
+Residential Land,38000,"Al Amarat, Muscat",,400
+Apartment,41000,"Al Seeb, Muscat",,47
+Villa,66000,"Barka, Al Batinah",5.0,360
+Residential Land,160000,"Ruwi, Muscat",,460
+Villa,202000,"Al Ghubrah, Muscat",6.0,700
+Villa,517000,"The Wave (Almouj), Muscat",5.0,427
+Apartment,60000,"Qurum, Muscat",2.0,118
+Apartment,89500,"Muscat Hills, Muscat",2.0,118
+Villa,47500,"Barka, Al Batinah",3.0,632
+Villa,58000,"Sumail, Al Dakhiliya",3.0,237
+Residential Land,2650,"Ibri, Al Dhahirah",,600
+Residential Land,11000,"Barka, Al Batinah",,600
+Villa,115000,"Ansab, Muscat",7.0,298
+Residential Land,999,"Sohar, Al Batinah",,1
+Villa,132300,"Al Maabilah, Muscat",3.0,210
+Residential Land,16800,"Barka, Al Batinah",,1
+Apartment,170000,"Barr Al Jissah, Muscat",2.0,199
+Villa,53000,"Barka, Al Batinah",2.0,260
+Villa,460950,"The Wave (Almouj), Muscat",4.0,314
+Residential Land,2200,"Saham, Al Batinah",,650
+Apartment,68000,"Qurum, Muscat",2.0,131
+Apartment,55000,"Qurum, Muscat",3.0,94
+Villa,290000,"Al Mawaleh, Muscat",5.0,794
+Residential Land,10500,"Al Masn'a, Al Batinah",,650
+Apartment,156500,"The Wave (Almouj), Muscat",2.0,119
+Apartment,51101,"Al Khoud, Muscat",1.0,57
+Villa,195000,"The Wave (Almouj), Muscat",3.0,202
+Residential Land,220000,"Barka, Al Batinah",,600
+Apartment,85000,"Al Khuwair, Muscat",3.0,174
+Villa,170000,"Al Sifah, Muscat",3.0,145
+Apartment,134583,"The Wave (Almouj), Muscat",1.0,83
+Residential Land,22000,"Barka, Al Batinah",,600
+Residential Land,13000,"Barka, Al Batinah",,600
+Apartment,41000,"Sultan Haitham City, Muscat",,53
+Residential Land,15000,"Qurayyat, Muscat",,600
+Apartment,148000,"The Wave (Almouj), Muscat",1.0,86
+Residential Land,2750,"Al Rustaq, Al Batinah",,500
+Apartment,115000,"Al Sifah, Muscat",2.0,124
+Villa,79000,"Al Amarat, Muscat",7.0,305
+Apartment,125000,"The Wave (Almouj), Muscat",1.0,82
+Residential Land,73000,"Al Seeb, Muscat",,614
+Apartment,25500,"Al Khoud, Muscat",1.0,67
+Apartment,39900,"Al Khoud, Muscat",2.0,108
+Villa,71000,"Salalah, Dhofar",1.0,77
+Apartment,128000,"The Wave (Almouj), Muscat",1.0,83
+Villa,85000,"Al Maabilah, Muscat",6.0,319
+Apartment,97000,"Salalah, Dhofar",1.0,61
+Apartment,25000,"Ghala, Muscat",1.0,55
+Villa,22000,"Izki, Al Dakhiliya",4.0,344
+Apartment,43500,"Muscat - Other, Muscat",1.0,42
+Residential Land,43000,"Barka, Al Batinah",,1
+Apartment,65044,"Sohar, Al Batinah",3.0,135
+Apartment,95451,"Yiti, Muscat",1.0,68
+Villa,135000,"The Wave (Almouj), Muscat",2.0,150
+Villa,210000,"Bosher, Muscat",6.0,500
+Residential Land,16000,"Suwaiq, Al Batinah",,600
+Apartment,60000,"Al Khoud, Muscat",3.0,126
+Apartment,46650,"Al Maabilah, Muscat",,71
+Apartment,98568,"Al Maabilah, Muscat",2.0,157
+Apartment,59296,"Al Maabilah, Muscat",1.0,95
+Apartment,57380,"Sohar, Al Batinah",3.0,120
+Apartment,49420,"Sohar, Al Batinah",2.0,97
+Apartment,35864,"Sohar, Al Batinah",1.0,74
+Villa,55000,"Barka, Al Batinah",4.0,275
+Villa,190000,"Yiti, Muscat",3.0,125
+Residential Land,200,"Al Rusayl, Muscat",,1
+Villa,155000,"Al Ghubrah, Muscat",5.0,600
+Apartment,72000,"Al Khuwair, Muscat",1.0,151
+Apartment,30500,"Azaiba, Muscat",1.0,72
+Apartment,220000,"The Wave (Almouj), Muscat",2.0,145
+Apartment,115000,"Barr Al Jissah, Muscat",2.0,140
+Apartment,80000,"The Wave (Almouj), Muscat",1.0,65
+Apartment,109000,"Al Sifah, Muscat",2.0,124
+Apartment,25500,"Al Maabilah, Muscat",3.0,101
+Villa,380000,"The Wave (Almouj), Muscat",5.0,502
+Apartment,63750,"Al Khuwair, Muscat",2.0,140
+Villa,190000,"Al Hail, Muscat",5.0,600
+Villa,67000,"Al Amarat, Muscat",6.0,321
+Villa,77000,"Al Seeb, Muscat",4.0,343
+Apartment,30000,"Al Maabilah, Muscat",2.0,101
+Residential Land,97000,"Al Amarat, Muscat",,500
+Apartment,77210,"Muscat Hills, Muscat",2.0,132
+Apartment,63210,"Muscat Hills, Muscat",1.0,100
+Residential Land,15500,"Barka, Al Batinah",,702
+Villa,57000,"Al Amarat, Muscat",4.0,300
+Residential Land,12000,"Ibra, Al Sharqiya",,1
+Apartment,160000,"The Wave (Almouj), Muscat",2.0,162
+Villa,1200000,"Bosher, Muscat",7.0,774
+Chalet,79000,"Mirbat, Dhofar",3.0,300
+Apartment,33250,"Al Seeb, Muscat",,50
+Residential Land,24000,"Al Amarat, Muscat",,900
+Residential Land,26000,"Barka, Al Batinah",,600
+Villa,517000,"The Wave (Almouj), Muscat",5.0,540
+Villa,111700,"Sultan Haitham City, Muscat",3.0,147
+Apartment,20400,"Al Hail, Muscat",,48
+Apartment,33500,"Salalah, Dhofar",1.0,143
+Residential Land,115000,"Al Mawaleh, Muscat",,600
+Residential Land,7500,"Izki, Al Dakhiliya",,600
+Villa,66000,"Al Maabilah, Muscat",3.0,509
+Villa,200000,"The Wave (Almouj), Muscat",3.0,192
+Apartment,46000,"Bosher, Muscat",2.0,81
+Residential Land,2150000,"Al Rusayl, Muscat",,13
+Villa,485000,"The Wave (Almouj), Muscat",6.0,545
+Apartment,220000,"Qantab, Muscat",2.0,200
+Villa,400000,"The Wave (Almouj), Muscat",4.0,525
+Apartment,125000,"The Wave (Almouj), Muscat",1.0,83
+Residential Land,42000,"Barka, Al Batinah",,3
+Apartment,47000,"Sohar, Al Batinah",2.0,110
+Villa,340000,"Al Maabilah, Muscat",4.0,380
+Residential Land,14500,"Al Amarat, Muscat",,687
+Residential Land,48000,"Al Masn'a, Al Batinah",,1
+Apartment,295000,"The Wave (Almouj), Muscat",3.0,265
+Residential Land,9250,"Barka, Al Batinah",,766
+Apartment,45900,"Al Khuwair, Muscat",1.0,86
+Villa,345000,"The Wave (Almouj), Muscat",4.0,490
+Apartment,88000,"The Wave (Almouj), Muscat",1.0,83
+Apartment,160000,"The Wave (Almouj), Muscat",2.0,142
+Residential Land,6000,"Izki, Al Dakhiliya",,621
+Residential Land,5300,"Izki, Al Dakhiliya",,600
+Residential Land,10000,"Al 'Awabi, Al Batinah",,617
+Residential Land,100000,"Al Khuwair, Muscat",,400
+Residential Land,17000,"Saham, Al Batinah",,1
+Villa,81000,"Al Amarat, Muscat",6.0,369
+Apartment,90000,"Yiti, Muscat",1.0,80
+Residential Land,55000,"Barka, Al Batinah",,330
+Apartment,31500,"Darsait, Muscat",2.0,76
+Villa,550000,"Muscat Hills, Muscat",5.0,1
+Apartment,53999,"Taqah, Dhofar",1.0,65
+Apartment,60000,"Al Khoud, Muscat",3.0,126
+Apartment,39900,"Al Khoud, Muscat",1.0,47
+Apartment,39900,"Al Khoud, Muscat",,45
+Villa,39000,"Sohar, Al Batinah",3.0,180
+Residential Land,28000,"Ibra, Al Sharqiya",,920
+Apartment,28000,"Ansab, Muscat",2.0,92
+Residential Land,6700,"Barka, Al Batinah",,600
+Residential Land,7000,"Al Khaboura, Al Batinah",,651
+Villa,54000,"Barka, Al Batinah",4.0,330
+Villa,260000,"Muscat Hills, Muscat",4.0,309
+Villa,355000,"The Wave (Almouj), Muscat",4.0,543
+Residential Land,30000,"Al Amarat, Muscat",,768
+Residential Land,515000,"Madinat As Sultan Qaboos, Muscat",,1
+Villa,80000,"Al Maabilah, Muscat",5.0,315
+Villa,1025000,"Qantab, Muscat",5.0,646
+Residential Land,13500,"Al Amarat, Muscat",,600
+Apartment,135000,"The Wave (Almouj), Muscat",2.0,144
+Villa,37000,"Al Amarat, Muscat",3.0,300
+Apartment,110500,"Al Maabilah, Muscat",2.0,170
+Apartment,48000,"Al Khuwair, Muscat",1.0,86
+Villa,750000,"Madinat As Sultan Qaboos, Muscat",6.0,1
+Residential Land,33000,"Dima and Al Taaiyin, Al Sharqiya",,2
+Villa,22000,"Suwaiq, Al Batinah",3.0,119
+Villa,121200,"Al Maabilah, Muscat",3.0,205
+Residential Land,5500,"Al Buraimi, Al Buraimi",,664
+Apartment,92100,"Muscat Hills, Muscat",2.0,126
+Apartment,94860,"Muscat Hills, Muscat",2.0,126
+Apartment,77802,"Muscat Hills, Muscat",2.0,119
+Apartment,75246,"Muscat Hills, Muscat",2.0,104
+Villa,450000,"The Wave (Almouj), Muscat",4.0,630
+Villa,247000,"Al Maabilah, Muscat",4.0,456
+Villa,169000,"Al Maabilah, Muscat",3.0,210
+Villa,950000,"Qantab, Muscat",5.0,646
+Apartment,120987,"Al Maabilah, Muscat",3.0,193
+Apartment,185000,"The Wave (Almouj), Muscat",2.0,167
+Villa,560000,"Barr Al Jissah, Muscat",5.0,999
+Apartment,64000,"Yiti, Muscat",,52
+Apartment,38000,"Bosher, Muscat",2.0,72
+Apartment,126750,"Al Maabilah, Muscat",3.0,195
+Villa,120000,"Al Amarat, Muscat",3.0,600
+Villa,465000,"Barr Al Jissah, Muscat",4.0,768
+Apartment,100000,"Muscat Hills, Muscat",2.0,160
+Villa,146000,"Al Mawaleh, Muscat",6.0,600
+Residential Land,120000,"Barka, Al Batinah",,4
+Apartment,79500,"The Wave (Almouj), Muscat",1.0,70
+Residential Land,75000,"Qantab, Muscat",,400
+Villa,165000,"Al Wadi Al Kabir, Muscat",9.0,601
+Apartment,85000,"The Wave (Almouj), Muscat",1.0,96
+Villa,125000,"Al Khuwair, Muscat",8.0,450
+Villa,59000,"Al Khoud, Muscat",3.0,404
+Apartment,80000,"Salalah, Dhofar",2.0,125
+Chalet,210000,"Barka, Al Batinah",3.0,4
+Residential Land,11500,"Liwa, Al Batinah",,500
+Residential Land,15000,"Sohar, Al Batinah",,1
+Residential Land,25000,"Al Khaboura, Al Batinah",,1
+Residential Land,250000,"Sohar, Al Batinah",,1
+Apartment,25000,"Al Amarat, Muscat",3.0,120
+Residential Land,3200,"Suwaiq, Al Batinah",,600
+Villa,65000,"Al Amarat, Muscat",4.0,305
+Apartment,44000,"Al Sifah, Muscat",,39
+Villa,480000,"The Wave (Almouj), Muscat",5.0,680
+Villa,55000,"Al Amarat, Muscat",5.0,287
+Residential Land,46000,"Nizwa, Al Dakhiliya",,615
+Apartment,120250,"Al Maabilah, Muscat",3.0,185
+Apartment,133575,"Al Maabilah, Muscat",3.0,195
+Apartment,142000,"The Wave (Almouj), Muscat",2.0,127
+Apartment,147500,"Al Sifah, Muscat",3.0,162
+Residential Land,39000,"Sohar, Al Batinah",,1
+Villa,39000,"Al Seeb, Muscat",8.0,411
+Apartment,50730,"Al Maabilah, Muscat",1.0,75
+Apartment,97030,"Al Maabilah, Muscat",3.0,155
+Villa,73000,"Al Amarat, Muscat",5.0,350
+Apartment,48902,"Bosher, Muscat",2.0,95
+Residential Land,1000000,"Qurum, Muscat",,2
+Apartment,158000,"Sultan Haitham City, Muscat",2.0,211
+Apartment,70000,"Sultan Haitham City, Muscat",2.0,110
+Villa,176000,"Sultan Haitham City, Muscat",3.0,220
+Villa,265000,"Al Sifah, Muscat",2.0,300
+Apartment,70000,"Al Ghubrah, Muscat",1.0,71
+Residential Land,12000,"Ibra, Al Sharqiya",,3
+Apartment,240000,"The Wave (Almouj), Muscat",2.0,126
+Apartment,128700,"Al Maabilah, Muscat",3.0,195
+Residential Land,18000,"Barka, Al Batinah",,600
+Villa,265000,"Al Sifah, Muscat",3.0,300
+Apartment,71582,"Al Maabilah, Muscat",2.0,110
+Villa,100000,"Al Khuwair, Muscat",4.0,196
+Villa,320000,"The Wave (Almouj), Muscat",4.0,325
+Villa,90000,"Al Seeb, Muscat",3.0,245
+Apartment,100000,"Al Ghubrah, Muscat",2.0,106
+Villa,265000,"Madinat As Sultan Qaboos, Muscat",4.0,387
+Villa,253000,"Muscat Hills, Muscat",5.0,365
+Residential Land,55000,"Al Amarat, Muscat",,674
+Residential Land,15000,"Qurayyat, Muscat",,600
+Apartment,716030,"Yiti, Muscat",3.0,215
+Apartment,120923,"Qurum, Muscat",3.0,172
+Residential Land,3000,"Al Mudaibi, Al Sharqiya",,600
+Villa,445000,"Muscat Hills, Muscat",9.0,1
+Apartment,44000,"Al Sifah, Muscat",,38
+Apartment,58500,"Salalah, Dhofar",2.0,110
+Apartment,225000,"The Wave (Almouj), Muscat",2.0,145
+Apartment,22500,"Al Maabilah, Muscat",1.0,100
+Villa,1002,"Mutrah, Muscat",1.0,100
+Villa,63000,"Al Amarat, Muscat",5.0,311
+Residential Land,22400,"Nizwa, Al Dakhiliya",,796
+Residential Land,105000,"Al Mawaleh, Muscat",,680
+Residential Land,20000,"Suwaiq, Al Batinah",,644
+Apartment,110000,"Sultan Haitham City, Muscat",3.0,169
+Apartment,49000,"Qurum, Muscat",1.0,68
+Villa,74000,"Al Bustan, Muscat",4.0,230
+Residential Land,5800,"Al Rustaq, Al Batinah",,690
+Apartment,405000,"Qurum, Muscat",2.0,131
+Apartment,47300,"Al Khoud, Muscat",1.0,56
+Apartment,50000,"Al Seeb, Muscat",1.0,75
+Residential Land,100000,"Al Seeb, Muscat",,1
+Villa,205000,"Al Amarat, Muscat",6.0,520
+Apartment,22500,"Salalah, Dhofar",2.0,75
+Apartment,203000,"The Wave (Almouj), Muscat",2.0,177
+Residential Land,49000,"Al Maabilah, Muscat",,600
+Apartment,57500,"Al Sifah, Muscat",1.0,54
+Apartment,115000,"The Wave (Almouj), Muscat",1.0,109
+Apartment,127931,"Yiti, Muscat",2.0,118
+Villa,380000,"The Wave (Almouj), Muscat",5.0,383
+Apartment,37000,"Bosher, Muscat",2.0,122
+Residential Land,6000,"Al Jazur, Al Wusta",,300
+Residential Land,103000,"Al Mawaleh, Muscat",,680
+Apartment,40000,"Al Khoud, Muscat",1.0,38
+Apartment,37200,"Al Maabilah, Muscat",1.0,50
+Residential Land,33000,"Al Amarat, Muscat",,345
+Villa,345000,"Bosher, Muscat",7.0,550
+Villa,149000,"The Wave (Almouj), Muscat",1.0,188
+Villa,72000,"Barka, Al Batinah",5.0,600
+Villa,269290,"Yiti, Muscat",3.0,209
+Apartment,149044,"Qurum, Muscat",4.0,212
+Apartment,240000,"Muscat Hills, Muscat",4.0,407
+Apartment,120000,"The Wave (Almouj), Muscat",2.0,112
+Villa,1600000,"The Wave (Almouj), Muscat",6.0,907
+Residential Land,21000,"Al Maabilah, Muscat",,300
+Villa,499000,"The Wave (Almouj), Muscat",5.0,427
+Villa,68000,"Barka, Al Batinah",5.0,600
+Villa,100000,"Al Maabilah, Muscat",5.0,300
+Villa,233300,"Sultan Haitham City, Muscat",4.0,400
+Apartment,41900,"Bosher, Muscat",1.0,78
+Residential Land,28000,"Sumail, Al Dakhiliya",,300
+Residential Land,350000,"Al Seeb, Muscat",,900
+Villa,250000,"Ansab, Muscat",6.0,600
+Villa,260000,"Al Maabilah, Muscat",7.0,656
+Apartment,29000,"Bosher, Muscat",1.0,67
+Apartment,141780,"Yiti, Muscat",2.0,89
+Apartment,85034,"Yiti, Muscat",1.0,79
+Apartment,58500,"Bosher, Muscat",2.0,111
+Apartment,47500,"Bosher, Muscat",1.0,89
+Apartment,63800,"Muscat Hills, Muscat",1.0,100
+Apartment,73000,"Muscat Hills, Muscat",2.0,105
+Villa,1600000,"The Wave (Almouj), Muscat",6.0,900
+Apartment,144900,"The Wave (Almouj), Muscat",1.0,187
+Villa,567000,"The Wave (Almouj), Muscat",4.0,314
+Apartment,155000,"The Wave (Almouj), Muscat",1.0,80
+Apartment,257655,"Yiti, Muscat",3.0,169
+Residential Land,950,"Azaiba, Muscat",,20
+Residential Land,5900,"Sumail, Al Dakhiliya",,600
+Apartment,101000,"The Wave (Almouj), Muscat",1.0,97
+Villa,435000,"The Wave (Almouj), Muscat",5.0,457
+Chalet,36000,"Bidiya, Al Sharqiya",3.0,650
+Residential Land,7000,"Mirbat, Dhofar",,600
+Residential Land,4000,"Sumail, Al Dakhiliya",,696
+Residential Land,75100,"Barka, Al Batinah",,1
+Residential Land,40000,"Ansab, Muscat",,300
+Residential Land,75000,"Al Rusayl, Muscat",,1
+Apartment,28500,"Bosher, Muscat",1.0,50
+Apartment,190000,"The Wave (Almouj), Muscat",2.0,156
+Chalet,10000,"Barka, Al Batinah",1.0,611
+Villa,650000,"Yiti, Muscat",5.0,382
+Apartment,200000,"The Wave (Almouj), Muscat",2.0,145
+Chalet,195000,"Al Sifah, Muscat",3.0,820
+Apartment,64977,"Qurum, Muscat",2.0,89
+Apartment,34000,"Al Bustan, Muscat",3.0,100
+Villa,350000,"Barka, Al Batinah",5.0,6
+Apartment,25000,"Al Duqum, Al Wusta",1.0,59
+Residential Land,2000,"Mahut, Al Wusta",,600
+Residential Land,91000,"Al Khoud, Muscat",,600
+Villa,265000,"Al Sifah, Muscat",2.0,300
+Apartment,38900,"Al Khoud, Muscat",2.0,76
+Apartment,54000,"Bosher, Muscat",2.0,109
+Apartment,96476,"Al Khoud, Muscat",2.0,112
+Apartment,84000,"Muscat Hills, Muscat",2.0,138
+Apartment,65000,"Muscat Hills, Muscat",1.0,70
+Villa,300000,"The Wave (Almouj), Muscat",3.0,259
+Residential Land,3500,"Al Amarat, Muscat",,600
+Residential Land,380000,"Bosher, Muscat",,1
+Residential Land,90000,"Al Mawaleh, Muscat",,600
+Villa,183492,"Al Sifah, Muscat",5.0,183
+Apartment,26000,"Al Maabilah, Muscat",2.0,100
+Apartment,26000,"Al Maabilah, Muscat",2.0,100
+Apartment,67200,"Muscat Hills, Muscat",1.0,71
+Villa,85000,"Al Wadi Al Kabir, Muscat",8.0,463
+Villa,69000,"Al Maabilah, Muscat",6.0,287
+Residential Land,13000,"Sumail, Al Dakhiliya",,600
+Apartment,41000,"Al Khuwair, Muscat",2.0,91
+Residential Land,20000,"Barka, Al Batinah",,615
+Residential Land,380000,"Sohar, Al Batinah",,2
+Villa,130000,"Al Khoud, Muscat",9.0,450
+Apartment,52000,"Al Ghubrah, Muscat",2.0,94
+Residential Land,38500,"Al Maabilah, Muscat",,600
+Apartment,72223,"Al Seeb, Muscat",1.0,102
+Villa,78000,"Nizwa, Al Dakhiliya",4.0,500
+Apartment,85000,"Yiti, Muscat",1.0,72
+Apartment,34000,"Al Maabilah, Muscat",3.0,134
+Apartment,137000,"The Wave (Almouj), Muscat",2.0,126
+Apartment,66988,"Ghala, Muscat",3.0,167
+Apartment,50284,"Ghala, Muscat",2.0,125
+Apartment,108990,"Al Maabilah, Muscat",3.0,154
+Residential Land,195,"Bosher, Muscat",,802
+Apartment,80000,"Qurum, Muscat",2.0,139
+Apartment,54000,"Sultan Haitham City, Muscat",1.0,70
+Apartment,122994,"Yiti, Muscat",2.0,88
+Apartment,170000,"The Wave (Almouj), Muscat",2.0,60
+Villa,450000,"The Wave (Almouj), Muscat",4.0,630
+Villa,227100,"Al Maabilah, Muscat",5.0,412
+Chalet,110000,"Barka, Al Batinah",4.0,1
+Villa,210000,"Al Sifah, Muscat",3.0,1
+Apartment,85000,"Al Sifah, Muscat",2.0,105
+Residential Land,250000,"Qurayyat, Muscat",,2
+Apartment,47000,"Salalah, Dhofar",1.0,38
+Residential Land,4600,"Al Qabil, Al Sharqiya",,670
+Residential Land,54000,"Bosher, Muscat",,382
+Villa,89000,"Al Maabilah, Muscat",8.0,388
+Residential Land,2500,"Sohar, Al Batinah",,600
+Villa,277000,"Yiti, Muscat",4.0,285
+Villa,140000,"Al Ghubrah, Muscat",4.0,341
+Apartment,115000,"The Wave (Almouj), Muscat",2.0,144
+Residential Land,500000,"Bidiya, Al Sharqiya",,1
+Apartment,29000,"Al Maabilah, Muscat",3.0,141
+Villa,145000,"Ansab, Muscat",4.0,350
+Residential Land,8900,"Nizwa, Al Dakhiliya",,630
+Villa,66000,"Al Amarat, Muscat",8.0,344
+Residential Land,61000,"Al Amarat, Muscat",,200
+Residential Land,6000,"Al Amarat, Muscat",,600
+Apartment,180000,"Barr Al Jissah, Muscat",2.0,200
+Apartment,185000,"Barr Al Jissah, Muscat",2.0,200
+Apartment,85000,"Yiti, Muscat",1.0,86
+Apartment,65000,"Muscat Hills, Muscat",1.0,79
+Residential Land,7500,"Al Kamil and Al Waafi, Al Sharqiya",,600
+Apartment,125000,"The Wave (Almouj), Muscat",1.0,120
+Residential Land,21800,"Salalah, Dhofar",,600
+Villa,258000,"Bosher, Muscat",6.0,527
+Apartment,68000,"Muscat Hills, Muscat",1.0,91
+Villa,41000,"Al Amarat, Muscat",2.0,600
+Residential Land,6200,"Al Amarat, Muscat",,600
+Villa,85000,"Al Sifah, Muscat",1.0,77
+Villa,111700,"Al Maabilah, Muscat",3.0,194
+Residential Land,5700,"Nakhl, Al Batinah",,610
+Villa,1000,"Al Maabilah, Muscat",6.0,300
+Apartment,10500,"Muscat - Other, Muscat",,48
+Apartment,47000,"Al Khoud, Muscat",1.0,65
+Villa,525000,"The Wave (Almouj), Muscat",5.0,534
+Apartment,215000,"The Wave (Almouj), Muscat",2.0,131
+Apartment,95000,"Muscat Hills, Muscat",2.0,109
+Apartment,96491,"Al Sifah, Muscat",2.0,85
+Villa,65000,"Salalah, Dhofar",5.0,330
+Villa,234031,"Yiti, Muscat",3.0,160
+Villa,155338,"Salalah, Dhofar",2.0,110
+Residential Land,13000,"Liwa, Al Batinah",,521
+Apartment,55000,"Al Sifah, Muscat",1.0,77
+Villa,220000,"Al Khoud, Muscat",7.0,625
+Villa,470000,"The Wave (Almouj), Muscat",6.0,588
+Villa,45500,"Izki, Al Dakhiliya",3.0,175
+Apartment,103574,"Qurum, Muscat",3.0,133
+Residential Land,279000,"Qurum, Muscat",,1
+Apartment,41000,"Bosher, Muscat",2.0,89
+Villa,80000,"Al Maabilah, Muscat",6.0,440
+Villa,27000,"Suwaiq, Al Batinah",4.0,600
+Villa,325000,"Muscat Hills, Muscat",4.0,689
+Villa,169500,"Qantab, Muscat",3.0,125
+Residential Land,23500,"Al Seeb, Muscat",,300
+Residential Land,10000,"Al Amarat, Muscat",,707
+Residential Land,2500000,"Ghala, Muscat",,20
+Residential Land,20000,"Saham, Al Batinah",,595
+Residential Land,9000,"Al Amarat, Muscat",,600
+Villa,45000,"Barka, Al Batinah",4.0,180
+Villa,130000,"Al Hail, Muscat",7.0,358
+Chalet,39000,"Sumail, Al Dakhiliya",1.0,80
+Apartment,95000,"Qantab, Muscat",1.0,77
+Apartment,47000,"Salalah, Dhofar",1.0,65
+Villa,470000,"Barr Al Jissah, Muscat",5.0,422
+Residential Land,400000,"Al Khuwair, Muscat",,800
+Apartment,83852,"Yiti, Muscat",1.0,58
+Villa,110000,"Al Ghubrah, Muscat",5.0,280
+Apartment,100000,"Al Seeb, Muscat",2.0,172
+Apartment,42000,"Al Amarat, Muscat",3.0,107
+Villa,90000,"Al Maabilah, Muscat",6.0,450
+Villa,165000,"Azaiba, Muscat",6.0,400
+Apartment,32000,"Al Maabilah, Muscat",2.0,123
+Apartment,59000,"Al Sifah, Muscat",1.0,86
+Villa,292200,"Al Seeb, Muscat",5.0,500
+Residential Land,5500,"Masira, Al Sharqiya",,600
+Apartment,94570,"Yiti, Muscat",1.0,59
+Villa,200000,"Qurum, Muscat",4.0,320
+Residential Land,30000,"Masira, Al Sharqiya",,989
+Residential Land,51000,"Al Seeb, Muscat",,600
+Residential Land,11500,"Al Masn'a, Al Batinah",,600
+Villa,58000,"Al Maabilah, Muscat",4.0,300
+Villa,90000,"Misfah, Muscat",4.0,294
+Apartment,102030,"Yiti, Muscat",1.0,69
+Apartment,180000,"Yiti, Muscat",2.0,109
+Villa,491410,"Yiti, Muscat",4.0,384
+Villa,162732,"Al Sifah, Muscat",2.0,157
+Villa,162732,"Al Sifah, Muscat",2.0,175
+Villa,183492,"Al Sifah, Muscat",3.0,183
+Villa,94000,"Muscat - Other, Muscat",5.0,440
+Residential Land,535000,"Madinat As Sultan Qaboos, Muscat",,1
+Apartment,179500,"The Wave (Almouj), Muscat",2.0,133
+Villa,127000,"Azaiba, Muscat",4.0,284
+Villa,385000,"Qantab, Muscat",3.0,769
+Villa,600000,"The Wave (Almouj), Muscat",5.0,547
+Residential Land,5000,"Al Duqum, Al Wusta",,647
+Residential Land,50000,"Saham, Al Batinah",,1
+Villa,356000,"The Wave (Almouj), Muscat",3.0,413
+Apartment,150000,"Al Sifah, Muscat",2.0,126
+Residential Land,30000,"Al Qabil, Al Sharqiya",,594
+Residential Land,42000,"Al Maabilah, Muscat",,400
+Apartment,65000,"Muscat Hills, Muscat",1.0,91
+Villa,180000,"Al Hail, Muscat",7.0,369
+Villa,514755,"Yiti, Muscat",4.0,170
+Apartment,45000,"Al Maabilah, Muscat",4.0,193
+Residential Land,19000,"Barka, Al Batinah",,600
+Apartment,200000,"Qantab, Muscat",2.0,200
+Villa,1406000,"The Wave (Almouj), Muscat",6.0,907
+Residential Land,130000,"Al Maabilah, Muscat",,797
+Residential Land,10000,"Barka, Al Batinah",,611
+Apartment,125000,"Qantab, Muscat",2.0,106
+Villa,92000,"Al Maabilah, Muscat",4.0,355
+Apartment,50510,"Sultan Haitham City, Muscat",1.0,67
+Residential Land,3000,"Suwaiq, Al Batinah",,600
+Villa,415000,"The Wave (Almouj), Muscat",6.0,600
+Villa,95000,"Salalah, Dhofar",8.0,600
+Apartment,39000,"Bosher, Muscat",2.0,888
+Residential Land,95000,"Al Rusayl, Muscat",,1
+Apartment,55000,"Qurum, Muscat",3.0,120
+Apartment,75000,"Madinat As Sultan Qaboos, Muscat",2.0,180
+Residential Land,50000,"Bidbid, Al Dakhiliya",,400
+Apartment,58000,"Al Sifah, Muscat",1.0,76
+Residential Land,20000,"Al Buraimi, Al Buraimi",,500
+Apartment,95840,"Al Maabilah, Muscat",3.0,138
+Residential Land,28000,"Barka, Al Batinah",,300
+Villa,86500,"Al Maabilah, Muscat",8.0,382
+Residential Land,5600,"Barka, Al Batinah",,611
+Villa,338552,"Salalah, Dhofar",4.0,243
+Villa,390000,"Muscat Hills, Muscat",4.0,450
+Villa,180000,"Bosher, Muscat",4.0,350
+Villa,302000,"The Wave (Almouj), Muscat",3.0,269
+Apartment,80000,"Muscat Hills, Muscat",1.0,105
+Villa,120000,"Al Mawaleh, Muscat",5.0,370
+Residential Land,3000,"Suwaiq, Al Batinah",,600
+Villa,68000,"Salalah, Dhofar",1.0,76
+Apartment,156000,"The Wave (Almouj), Muscat",2.0,131
+Residential Land,56000,"Barka, Al Batinah",,600
+Villa,160000,"Ansab, Muscat",6.0,300
+Apartment,245500,"The Wave (Almouj), Muscat",2.0,145
+Villa,45000,"Al Buraimi, Al Buraimi",6.0,600
+Residential Land,6000,"Ibri, Al Dhahirah",,738
+Residential Land,250,"Nizwa, Al Dakhiliya",,500
+Villa,335825,"Salalah, Dhofar",4.0,234
+Residential Land,53000,"Al Seeb, Muscat",,608
+Villa,60000,"Saham, Al Batinah",3.0,3
+Apartment,47000,"Bosher, Muscat",3.0,90
+Residential Land,15000,"Sohar, Al Batinah",,300
+Villa,43000,"Al Amarat, Muscat",3.0,224
+Residential Land,65000,"Sohar, Al Batinah",,1
+Residential Land,9500,"Al Mudaibi, Al Sharqiya",,632
+Residential Land,19500,"Al Amarat, Muscat",,600
+Residential Land,79990,"Salalah, Dhofar",,600
+Residential Land,2600,"Ibri, Al Dhahirah",,600
+Villa,165000,"Salalah, Dhofar",2.0,131
+Apartment,15000,"Muscat - Other, Muscat",1.0,40
+Apartment,23500,"Al Maabilah, Muscat",2.0,86
+Apartment,30000,"Bosher, Muscat",1.0,70
+Residential Land,3000000,"Ghala, Muscat",,16
+Residential Land,10500,"Saham, Al Batinah",,600
+Villa,326456,"Yiti, Muscat",4.0,286
+Villa,269290,"Yiti, Muscat",3.0,124
+Residential Land,9500,"Izki, Al Dakhiliya",,600
+Apartment,74830,"Al Maabilah, Muscat",2.0,109
+Villa,1406000,"The Wave (Almouj), Muscat",6.0,907
+Villa,229766,"Yiti, Muscat",3.0,256
+Residential Land,15000,"Sohar, Al Batinah",,300
+Residential Land,51900,"Al Amarat, Muscat",,800
+Apartment,30000,"Barka, Al Batinah",2.0,114
+Residential Land,250000,"Saham, Al Batinah",,1
+Residential Land,250000,"Al Buraimi, Al Buraimi",,547
+Residential Land,200000,"Mahut, Al Wusta",,1
+Residential Land,300,"Al Duqum, Al Wusta",,30
+Villa,167000,"Salalah, Dhofar",2.0,121
+Apartment,135000,"Madinat As Sultan Qaboos, Muscat",3.0,273
+Villa,450000,"Qurum, Muscat",5.0,459
+Villa,4200000,"The Wave (Almouj), Muscat",6.0,1
+Residential Land,90000,"Al Seeb, Muscat",,1
+Villa,115000,"Ansab, Muscat",5.0,340
+Apartment,35000,"Bosher, Muscat",3.0,76
+Residential Land,120000,"Bosher, Muscat",,2
+Villa,55000,"Salalah, Dhofar",4.0,170
+Residential Land,69000,"Al Hail, Muscat",,563
+Residential Land,7500,"Qurayyat, Muscat",,600
+Villa,120000,"Al Maabilah, Muscat",6.0,410
+Villa,480000,"The Wave (Almouj), Muscat",6.0,459
+Villa,175000,"Sultan Haitham City, Muscat",4.0,333
+Residential Land,8900,"Sohar, Al Batinah",,600
+Villa,573300,"The Wave (Almouj), Muscat",5.0,549
+Residential Land,18000,"Wadi Al Ma'awal, Al Batinah",,618
+Residential Land,21000,"Shinas, Al Batinah",,2
+Villa,40000,"Al Amarat, Muscat",10.0,400
+Chalet,170000,"Al Sifah, Muscat",2.0,140
+Apartment,85000,"Al Sifah, Muscat",2.0,120
+Apartment,140000,"Al Sifah, Muscat",2.0,163
+Villa,180000,"Al Mawaleh, Muscat",6.0,600
+Villa,625000,"Al Mawaleh, Muscat",12.0,990
+Apartment,36000,Dhofar,2.0,82
+Villa,635000,"The Wave (Almouj), Muscat",5.0,667
+Apartment,39000,"Bosher, Muscat",2.0,99
+Villa,4410000,"The Wave (Almouj), Muscat",6.0,1
+Residential Land,43000,"Ruwi, Muscat",,226
+Residential Land,6000,"Ibri, Al Dhahirah",,738
+Villa,78000,"Al Maabilah, Muscat",6.0,337
+Residential Land,48000,"Nakhl, Al Batinah",,500
+Residential Land,19000,"Sur, Al Sharqiya",,630
+Residential Land,15000,"Sohar, Al Batinah",,300
+Villa,59400,"Sohar, Al Batinah",4.0,322
+Residential Land,100,"Masira, Al Sharqiya",,660
+Residential Land,300,"Jalan Bani Buhassan, Al Sharqiya",,1
+Apartment,35336,"Ghala, Muscat",1.0,88
+Residential Land,4000,"Suwaiq, Al Batinah",,600
+Residential Land,28500,"Barka, Al Batinah",,1
+Apartment,190000,"The Wave (Almouj), Muscat",2.0,150
+Apartment,245000,"The Wave (Almouj), Muscat",2.0,223
+Apartment,10950,"Al Seeb, Muscat",1.0,48
+Villa,1100000,"Qantab, Muscat",5.0,750
+Apartment,36000,"Bosher, Muscat",3.0,112
+Villa,370000,"The Wave (Almouj), Muscat",6.0,509
+Villa,70000,"Ibra, Al Sharqiya",5.0,580
+Residential Land,1000000,"Al Amarat, Muscat",,600
+Apartment,70000,"Muscat Hills, Muscat",2.0,100
+Villa,170000,"Yiti, Muscat",3.0,125
+Apartment,60000,"Muscat Hills, Muscat",1.0,71
+Residential Land,5000,"Saham, Al Batinah",,600
+Residential Land,6000,"Al Masn'a, Al Batinah",,613
+Villa,338956,"Salalah, Dhofar",4.0,243
+Villa,370000,"Al Mawaleh, Muscat",12.0,711
+Apartment,73000,"Al Sifah, Muscat",1.0,90
+Villa,1800000,"The Wave (Almouj), Muscat",6.0,933
+Apartment,110000,"Al Sifah, Muscat",2.0,121
+Residential Land,460000,"Al Hail, Muscat",,710
+Residential Land,100,"Bidiya, Al Sharqiya",,450
+Residential Land,7500,"Ibra, Al Sharqiya",,962
+Villa,67000,"Al Maabilah, Muscat",4.0,338
+Residential Land,105000,"Al Ghubrah, Muscat",,566
+Villa,385380,"Yiti, Muscat",3.0,128
+Residential Land,33900,"Al Maabilah, Muscat",,600
+Chalet,70000,"Al Amarat, Muscat",7.0,600
+Villa,1490000,"The Wave (Almouj), Muscat",6.0,933
+Apartment,45000,"Qurum, Muscat",2.0,103
+Villa,70000,"Barka, Al Batinah",5.0,320
+Apartment,56000,"Al Sifah, Muscat",1.0,77
+Villa,456000,"Barr Al Jissah, Muscat",4.0,498
+Villa,165000,"Al Hail, Muscat",3.0,857
+Villa,950000,"Qantab, Muscat",5.0,1
+Residential Land,23000,"Al 'Awabi, Al Batinah",,287
+Residential Land,275000,"Barka, Al Batinah",,10
+Villa,140000,"Azaiba, Muscat",5.0,300
+Apartment,41000,"Al Khoud, Muscat",,56
+Villa,220000,"Al Hail, Muscat",5.0,900
+Villa,1506534,"Yiti, Muscat",5.0,487
+Villa,274596,"Yiti, Muscat",4.0,260
+Residential Land,70000,"Al Masn'a, Al Batinah",,11
+Apartment,125000,"The Wave (Almouj), Muscat",2.0,130
+Villa,49900,"Yunqul, Al Dhahirah",6.0,517
+Residential Land,9000,"Qurayyat, Muscat",,600
+Villa,950000,"Qantab, Muscat",5.0,750
+Apartment,187500,"Qantab, Muscat",3.0,175
+Apartment,178500,"Qantab, Muscat",3.0,170
+Apartment,185000,"Qantab, Muscat",3.0,165
+Residential Land,95000,"Al Khoud, Muscat",,615
+Villa,950000,"The Wave (Almouj), Muscat",6.0,907
+Villa,670000,"The Wave (Almouj), Muscat",5.0,455
+Residential Land,200000,"Al Masn'a, Al Batinah",,27
+Residential Land,500,"Ghala, Muscat",,2
+Residential Land,6000,"Al Amarat, Muscat",,812
+Villa,175000,"Al Maabilah, Muscat",4.0,333
+Villa,281101,"Yiti, Muscat",4.0,257
+Villa,241255,"Yiti, Muscat",4.0,256
+Apartment,52500,"Qurum, Muscat",2.0,100
+Residential Land,7200,"Al Masn'a, Al Batinah",,602
+Villa,310000,"The Wave (Almouj), Muscat",3.0,247
+Apartment,77015,"Muscat Hills, Muscat",1.0,108
+Residential Land,33000,"Sohar, Al Batinah",,1
+Residential Land,25000,"Sumail, Al Dakhiliya",,618
+Villa,175000,"Al Mawaleh, Muscat",4.0,775
+Villa,20000,"Barka, Al Batinah",3.0,180
+Villa,137000,"Al Khoud, Muscat",4.0,420
+Villa,230000,"Al Khoud, Muscat",7.0,636
+Villa,63000,"Al Maabilah, Muscat",5.0,300
+Apartment,78000,"Muscat Hills, Muscat",2.0,110
+Residential Land,20000,"Al Amarat, Muscat",,550
+Apartment,187500,"Qantab, Muscat",3.0,171
+Residential Land,7500,"Sumail, Al Dakhiliya",,600
+Residential Land,11000,"Izki, Al Dakhiliya",,600
+Apartment,167680,"Barr Al Jissah, Muscat",1.0,43
+Apartment,71917,"Muscat Hills, Muscat",1.0,108
+Apartment,160000,"The Wave (Almouj), Muscat",2.0,127
+Residential Land,95000,"Al Rusayl, Muscat",,1
+Residential Land,5200,"Ibri, Al Dhahirah",,1
+Villa,455617,"Yiti, Muscat",4.0,506
+Villa,1215385,"Yiti, Muscat",4.0,315
+Villa,330000,"The Wave (Almouj), Muscat",3.0,256
+Residential Land,14500,"Barka, Al Batinah",,611
+Villa,71000,"Al Maabilah, Muscat",5.0,300
+Residential Land,85000,"Ibri, Al Dhahirah",,1
+Apartment,70000,"Al Sifah, Muscat",1.0,91
+Apartment,83461,"Muscat Hills, Muscat",3.0,132
+Apartment,225000,"The Wave (Almouj), Muscat",2.0,100
+Villa,165000,"Al Hail, Muscat",4.0,859
+Villa,62000,"Barka, Al Batinah",7.0,400
+Apartment,54000,"Salalah, Dhofar",1.0,53
+Apartment,49000,"Salalah, Dhofar",1.0,60
+Apartment,236643,"Al Khoud, Muscat",4.0,333
+Apartment,76000,"Muscat Hills, Muscat",2.0,118
+Apartment,44000,"Al Sifah, Muscat",1.0,60
+Villa,370000,"Qurum, Muscat",9.0,800
+Residential Land,33000,"Sohar, Al Batinah",,1
+Residential Land,11000,"Nizwa, Al Dakhiliya",,732
+Residential Land,25500,"Suwaiq, Al Batinah",,2
+Apartment,80000,"Qantab, Muscat",1.0,86
+Apartment,133000,"Qantab, Muscat",2.0,138
+Residential Land,7700,"Al Buraimi, Al Buraimi",,631
+Residential Land,18000,"Nizwa, Al Dakhiliya",,750
+Apartment,220000,"The Wave (Almouj), Muscat",2.0,122
+Apartment,82000,"The Wave (Almouj), Muscat",1.0,61
+Villa,1010,"Bosher, Muscat",8.0,600
+Residential Land,10000,"Ibri, Al Dhahirah",,100
+Apartment,50000,"Al Maabilah, Muscat",4.0,170
+Residential Land,6000,"Bahla, Al Dakhiliya",,600
+Apartment,100000,"Salalah, Dhofar",1.0,89
+Apartment,50070,"Al Maabilah, Muscat",1.0,70
+Residential Land,7300,"Al Rustaq, Al Batinah",,600
+Chalet,60000,"Barka, Al Batinah",2.0,135
+Residential Land,5500,"Bidbid, Al Dakhiliya",,675
+Residential Land,220000,"Al Amarat, Muscat",,2
+Apartment,199000,"Qantab, Muscat",3.0,171
+Villa,32000,"Saham, Al Batinah",4.0,200
+Apartment,19900,"Ruwi, Muscat",2.0,85
+Residential Land,250000,"Al Seeb, Muscat",,9
+Villa,750000,"The Wave (Almouj), Muscat",7.0,823
+Apartment,212000,Muscat,3.0,212
+Apartment,99750,"The Wave (Almouj), Muscat",1.0,107
+Apartment,28000,"Al Ghubrah, Muscat",2.0,79
+Residential Land,9000,"Ibri, Al Dhahirah",,674
+Apartment,135000,"Qantab, Muscat",2.0,133
+Chalet,42000,"Sumail, Al Dakhiliya",2.0,170
+Apartment,48000,"Qurum, Muscat",2.0,100
+Villa,151000,"Bosher, Muscat",3.0,235
+Residential Land,13000,"Ibra, Al Sharqiya",,630
+Apartment,131500,"Qantab, Muscat",2.0,133
+Apartment,89000,"Qantab, Muscat",1.0,84
+Villa,72000,"Salalah, Dhofar",1.0,78
+Residential Land,90000,"Al Mawaleh, Muscat",,600
+Villa,66000,"Al Amarat, Muscat",5.0,308
+Villa,580000,"The Wave (Almouj), Muscat",5.0,427
+Residential Land,28000,"Suwaiq, Al Batinah",,1
+Apartment,180000,"The Wave (Almouj), Muscat",3.0,207
+Residential Land,8000,"Saham, Al Batinah",,600
+Residential Land,48000,"Al Mudaibi, Al Sharqiya",,15
+Apartment,51500,"Bosher, Muscat",1.0,68
+Villa,85000,"Al Amarat, Muscat",5.0,330
+Villa,37500,"Al Masn'a, Al Batinah",3.0,217
+Residential Land,450000,"Muscat - Other, Muscat",,906
+Residential Land,95000,"Al Hail, Muscat",,770
+Residential Land,59000,"Al Maabilah, Muscat",,640
+Residential Land,24600,"Barka, Al Batinah",,630
+Apartment,24000,"Al Amarat, Muscat",3.0,104
+Apartment,75000,"Muscat Hills, Muscat",2.0,80
+Apartment,133000,"Qantab, Muscat",2.0,133
+Residential Land,3400,"Al Rustaq, Al Batinah",,500
+Apartment,40000,"Salalah, Dhofar",,50
+Residential Land,8500,"Nizwa, Al Dakhiliya",,900
+Residential Land,98000,"Azaiba, Muscat",,440
+Villa,66000,"Al Amarat, Muscat",3.0,255
+Residential Land,2500,"Al Khaboura, Al Batinah",,600
+Apartment,122000,"Qantab, Muscat",2.0,128
+Residential Land,5000,"Al Sinainah, Al Buraimi",,969
+Villa,195000,"The Wave (Almouj), Muscat",3.0,202
+Residential Land,19000,"Barka, Al Batinah",,600
+Villa,233300,"Al Maabilah, Muscat",5.0,600
+Villa,17000,"Mirbat, Dhofar",2.0,450
+Villa,87000,"Barka, Al Batinah",6.0,653
+Residential Land,20000,"Sumail, Al Dakhiliya",,600
+Apartment,78870,"Al Khoud, Muscat",1.0,102
+Villa,72000,"Al Sifah, Muscat",1.0,90
+Villa,265000,"Al Sifah, Muscat",2.0,129
+Residential Land,37000,"Al Rustaq, Al Batinah",,603
+Residential Land,13000,"Al Rustaq, Al Batinah",,600
+Apartment,250000,"The Wave (Almouj), Muscat",3.0,150
+Residential Land,23000,"Sohar, Al Batinah",,300
+Residential Land,135,"Al Mawaleh, Muscat",,605
+Residential Land,9000,"Saham, Al Batinah",,602
+Residential Land,28000,"Al Amarat, Muscat",,910
+Residential Land,95000,"Saham, Al Batinah",,1
+Apartment,100000,"The Wave (Almouj), Muscat",1.0,87
+Villa,53000,"Al Wadi Al Kabir, Muscat",4.0,300
+Villa,1000,"Saham, Al Batinah",1.0,1
+Residential Land,43000,"Al Amarat, Muscat",,500
+Residential Land,650000,"Al Mawaleh, Muscat",,1
+Residential Land,20000,"Ibri, Al Dhahirah",,799
+Residential Land,2000,"Al Seeb, Muscat",,5
+Residential Land,170000,"Bosher, Muscat",,783
+Villa,48000,"Sumail, Al Dakhiliya",5.0,240
+Apartment,62000,"Muscat Hills, Muscat",1.0,65
+Apartment,165000,"Qantab, Muscat",2.0,142
+Villa,500000,"Barr Al Jissah, Muscat",4.0,389
+Residential Land,13000,"Dima and Al Taaiyin, Al Sharqiya",,757
+Residential Land,49000,"Saham, Al Batinah",,1
+Residential Land,16000,"Qurayyat, Muscat",,600
+Residential Land,5000,"Al Khaboura, Al Batinah",,630
+Apartment,50510,"Sultan Haitham City, Muscat",1.0,67
+Residential Land,24000,"Al Amarat, Muscat",,1
+Residential Land,90000,"Al Khoud, Muscat",,600
+Residential Land,24000,"Ibri, Al Dhahirah",,1
+Chalet,140000,"Qurayyat, Muscat",3.0,2
+Apartment,47300,"Al Khoud, Muscat",1.0,55
+Residential Land,5000,"Al Amarat, Muscat",,600
+Residential Land,20000,"Saham, Al Batinah",,791
+Residential Land,9500,"Shinas, Al Batinah",,600
+Apartment,175000,"The Wave (Almouj), Muscat",2.0,224
+Apartment,90000,"Al Khuwair, Muscat",2.0,155
+Residential Land,18000,"Dhank, Al Dhahirah",,480
+Apartment,75000,"Madinat As Sultan Qaboos, Muscat",3.0,153
+Villa,52000,"Barka, Al Batinah",4.0,260
+Villa,160000,"Al Mawaleh, Muscat",11.0,782
+Villa,170000,"Al Mawaleh, Muscat",8.0,500
+Residential Land,11200,"Al Sifah, Muscat",,600
+Residential Land,23000,"Al Khaboura, Al Batinah",,2
+Villa,183492,"Yiti, Muscat",3.0,183
+Residential Land,30000,"Bidbid, Al Dakhiliya",,600
+Villa,456000,"Qantab, Muscat",4.0,498
+Villa,38000,"Al Amarat, Muscat",3.0,140
+Residential Land,25500,"Suwaiq, Al Batinah",,1
+Apartment,95000,"Muscat Hills, Muscat",2.0,142
+Residential Land,50000,"Al Maabilah, Muscat",,800
+Villa,212191,"Salalah, Dhofar",2.0,780
+Villa,1406000,"The Wave (Almouj), Muscat",6.0,1
+Residential Land,41500,"Barka, Al Batinah",,772
+Villa,33000,"Al Masn'a, Al Batinah",3.0,156
+Residential Land,15000,"Barka, Al Batinah",,664
+Villa,76000,"Al Maabilah, Muscat",6.0,300
+Residential Land,115,"Al Hail, Muscat",,735
+Villa,90000,"Barka, Al Batinah",4.0,700
+Villa,170869,"Al Sifah, Muscat",2.0,157
+Apartment,133000,"Qantab, Muscat",2.0,133
+Apartment,59494,"Al Sifah, Muscat",1.0,51
+Villa,197736,"Al Sifah, Muscat",2.0,100
+Villa,269290,"Yiti, Muscat",3.0,204
+Villa,1406000,"The Wave (Almouj), Muscat",6.0,907
+Villa,80000,"Al Maabilah, Muscat",6.0,396
+Villa,67000,"Al Amarat, Muscat",7.0,416
+Villa,59500,"Sumail, Al Dakhiliya",3.0,280
+Residential Land,38000,"Barka, Al Batinah",,1
+Residential Land,10300,"Nizwa, Al Dakhiliya",,600
+Residential Land,31500,"Barka, Al Batinah",,600
+Residential Land,4800,"Izki, Al Dakhiliya",,600
+Villa,39999,"Al Qabil, Al Sharqiya",5.0,223
+Residential Land,12000,"Qurayyat, Muscat",,603
+Residential Land,9000,"Nizwa, Al Dakhiliya",,716
+Apartment,89118,"Yiti, Muscat",1.0,50
+Villa,98000,"Al Mawaleh, Muscat",4.0,300
+Residential Land,15000,"Mahut, Al Wusta",,846
+Apartment,46344,"Al Sifah, Muscat",1.0,38
+Residential Land,9000,"Thumrait, Dhofar",,1
+Residential Land,17000,"Al Amarat, Muscat",,600
+Residential Land,4000,"Sohar, Al Batinah",,600
+Villa,22000,"Barka, Al Batinah",3.0,400
+Residential Land,2900,"Al Buraimi, Al Buraimi",,633
+Apartment,135000,"The Wave (Almouj), Muscat",1.0,105
+Apartment,143976,"Muscat Hills, Muscat",2.0,110
+Apartment,105000,"Muscat Hills, Muscat",1.0,71
+Apartment,73000,"Al Khoud, Muscat",2.0,100
+Apartment,89500,"Qantab, Muscat",1.0,82
+Apartment,48600,"Al Maabilah, Muscat",1.0,70
+Villa,83000,"Al Bustan, Muscat",4.0,236
+Villa,85000,"Mutrah, Muscat",3.0,354
+Villa,220000,"Al Khoud, Muscat",6.0,678
+Villa,77000,"Al Amarat, Muscat",6.0,313
+Residential Land,10500,"Barka, Al Batinah",,612
+Residential Land,3500,"Al Rustaq, Al Batinah",,500
+Apartment,125000,"Muscat Hills, Muscat",2.0,172
+Apartment,32000,"Al Hail, Muscat",1.0,90
+Apartment,81180,"Muscat Hills, Muscat",2.0,123
+Apartment,63000,"Al Sifah, Muscat",1.0,77
+Residential Land,8500,"Nakhl, Al Batinah",,617
+Apartment,53000,"Qurum, Muscat",2.0,102
+Villa,525000,"Al Khoud, Muscat",7.0,1
+Apartment,89000,"The Wave (Almouj), Muscat",1.0,88
+Residential Land,12000,"Sumail, Al Dakhiliya",,658
+Villa,95000,"Al Khuwair, Muscat",6.0,462
+Residential Land,8500,"Bahla, Al Dakhiliya",,1
+Villa,181500,"Bosher, Muscat",3.0,235
+Apartment,80000,"Ghala, Muscat",2.0,139
+Apartment,145000,"The Wave (Almouj), Muscat",2.0,127
+Villa,105000,"Salalah, Dhofar",7.0,648
+Apartment,29500,"Al Hail, Muscat",1.0,65
+Apartment,99750,"The Wave (Almouj), Muscat",1.0,107
+Residential Land,50000,"Misfah, Muscat",,600
+Apartment,70000,"Muscat Hills, Muscat",2.0,98
+Apartment,52000,"Taqah, Dhofar",1.0,64
+Villa,77000,"Al Maabilah, Muscat",4.0,350
+Apartment,46000,"Salalah, Dhofar",1.0,61
+Residential Land,56000,"Bidbid, Al Dakhiliya",,1
+Apartment,75900,"Muscat Hills, Muscat",1.0,115
+Residential Land,120000,"Al Duqum, Al Wusta",,500
+Villa,135000,"Al Khoud, Muscat",6.0,476
+Residential Land,11111,"Nizwa, Al Dakhiliya",,640
+Villa,75000,"Al Maabilah, Muscat",4.0,350
+Residential Land,100000,"Al Mawaleh, Muscat",,680
+Residential Land,40000,"Nizwa, Al Dakhiliya",,600
+Villa,40000,"Sohar, Al Batinah",3.0,177
+Apartment,26500,"Al Khoud, Muscat",2.0,89
+Residential Land,195000,"Al Khoud, Muscat",,1
+Residential Land,47000,"Al Amarat, Muscat",,805
+Apartment,74000,"Qantab, Muscat",,68
+Residential Land,25000,"Al Buraimi, Al Buraimi",,390
+Residential Land,7400,"Sohar, Al Batinah",,600
+Residential Land,7800,"Mirbat, Dhofar",,200
+Residential Land,15000,"Barka, Al Batinah",,605
+Villa,180000,"Yiti, Muscat",3.0,125
+Villa,450000,"Muscat Hills, Muscat",5.0,450
+Villa,85000,"Barka, Al Batinah",4.0,600
+Apartment,54000,"Taqah, Dhofar",1.0,65
+Residential Land,18500,"Al Masn'a, Al Batinah",,470
+Apartment,103000,"The Wave (Almouj), Muscat",1.0,104
+Villa,180000,"Al Amarat, Muscat",7.0,716
+Apartment,67000,"Qurum, Muscat",2.0,116
+Apartment,49000,"Qurum, Muscat",1.0,88
+Residential Land,10800,"Suwaiq, Al Batinah",,600
+Residential Land,15000,"Nizwa, Al Dakhiliya",,600
+Residential Land,10000,"Barka, Al Batinah",,600
+Residential Land,5000,"Ibri, Al Dhahirah",,669
+Villa,455000,"The Wave (Almouj), Muscat",3.0,525
+Residential Land,22000,"Al Duqum, Al Wusta",,648
+Residential Land,18000,"Al Amarat, Muscat",,600
+Apartment,68137,"Ghala, Muscat",1.0,100
+Apartment,32500,"Al Duqum, Al Wusta",1.0,66
+Residential Land,22000,"Sohar, Al Batinah",,300
+Residential Land,195000,"Bosher, Muscat",,975
+Residential Land,77000,"Bosher, Muscat",,600
+Residential Land,40000,"Mutrah, Muscat",,1
+Villa,270000,"Al Seeb, Muscat",6.0,745
+Residential Land,30000,"Al Khaboura, Al Batinah",,4
+Residential Land,110000,"Sumail, Al Dakhiliya",,5
+Residential Land,19500,"Al Masn'a, Al Batinah",,288
+Apartment,47000,"Bosher, Muscat",2.0,100
+Residential Land,24000,"Ibri, Al Dhahirah",,300
+Residential Land,79500,"Barka, Al Batinah",,1
+Apartment,77377,"Ghala, Muscat",2.0,122
+Chalet,18000,"Adam, Al Dakhiliya",3.0,750
+Residential Land,25000,"Al Amarat, Muscat",,398
+Apartment,25000,"Al Duqum, Al Wusta",1.0,35
+Villa,241000,"Muscat Hills, Muscat",4.0,338
+Villa,30000,"Suwaiq, Al Batinah",5.0,220
+Apartment,215000,"The Wave (Almouj), Muscat",2.0,145
+Villa,410000,"Muscat Hills, Muscat",5.0,376
+Residential Land,34000,"Sumail, Al Dakhiliya",,1
+Villa,88000,"Barka, Al Batinah",7.0,680
+Villa,195000,"The Wave (Almouj), Muscat",3.0,175
+Apartment,77015,"Muscat Hills, Muscat",1.0,108
+Residential Land,14000,"Shinas, Al Batinah",,768
+Villa,300000,"The Wave (Almouj), Muscat",3.0,247
+Apartment,125000,"Al Sifah, Muscat",2.0,129
+Villa,76000,"Al Maabilah, Muscat",4.0,350
+Apartment,45000,"Al Sifah, Muscat",1.0,52
+Residential Land,14200,"Al Rustaq, Al Batinah",,600
+Villa,1406000,"The Wave (Almouj), Muscat",6.0,1
+Residential Land,15000,"Al Mawaleh, Muscat",,841
+Villa,37000,"Muscat - Other, Muscat",5.0,250
+Villa,79000,"Barka, Al Batinah",6.0,517
+Villa,180000,"Al Khoud, Muscat",5.0,412
+Villa,70000,"Al Maabilah, Muscat",3.0,294
+Residential Land,7000,"Al Masn'a, Al Batinah",,600
+Apartment,45000,"Al Duqum, Al Wusta",2.0,96
+Villa,264216,"Salalah, Dhofar",3.0,970
+Apartment,53500,"Al Sifah, Muscat",1.0,64
+Apartment,53000,"Al Sifah, Muscat",1.0,64
+Apartment,29000,"Al Duqum, Al Wusta",1.0,48
+Apartment,83461,"Muscat Hills, Muscat",2.0,132
+Apartment,66147,"Muscat Hills, Muscat",1.0,100
+Apartment,63281,"Muscat Hills, Muscat",1.0,70
+Residential Land,15000,"Barka, Al Batinah",,600
+Residential Land,1000000,"Ghala, Muscat",,4
+Residential Land,25000,"Sur, Al Sharqiya",,500
+Residential Land,16000,"Al Masn'a, Al Batinah",,585
+Villa,89000,"Al Maabilah, Muscat",5.0,365
+Residential Land,77000,"Sur, Al Sharqiya",,750
+Villa,1406000,"The Wave (Almouj), Muscat",6.0,1
+Apartment,145000,"Al Sifah, Muscat",3.0,162
+Residential Land,17500,"Sur, Al Sharqiya",,649
+Residential Land,8000,"Shinas, Al Batinah",,600
+Residential Land,3850,"Sohar, Al Batinah",,600
+Residential Land,460,"Misfah, Muscat",,80
+Residential Land,10000,"Al Amarat, Muscat",,627
+Residential Land,7000,"Suwaiq, Al Batinah",,600
+Residential Land,15000,"Saham, Al Batinah",,700
+Apartment,950000,"The Wave (Almouj), Muscat",4.0,755
+Villa,140000,"Al Hail, Muscat",4.0,911
+Villa,65000,"Al Seeb, Muscat",4.0,284
+Apartment,17000,"Salalah, Dhofar",1.0,50
+Residential Land,15000,"Suwaiq, Al Batinah",,611
+Villa,71000,"Al Maabilah, Muscat",5.0,360
+Residential Land,5500,"Al Qabil, Al Sharqiya",,1
+Villa,49000,"Barka, Al Batinah",3.0,237
+Villa,45000,"Barka, Al Batinah",4.0,313
+Villa,170000,"Al Khuwair, Muscat",6.0,376
+Villa,50000,"Shinas, Al Batinah",5.0,270
+Residential Land,110,"Al Maabilah, Muscat",,400
+Villa,130000,"Al Khuwair, Muscat",7.0,440
+Villa,90000,"Misfah, Muscat",5.0,312
+Residential Land,60000,"Al Maabilah, Muscat",,600
+Villa,95000,"Al Khuwair, Muscat",5.0,336
+Apartment,1111111,"The Wave (Almouj), Muscat",1.0,10
+Residential Land,200000,"Al Masn'a, Al Batinah",,27
+Residential Land,20000,"Barka, Al Batinah",,600
+Residential Land,9800,"Al Duqum, Al Wusta",,600
+Residential Land,9800,"Al Duqum, Al Wusta",,600
+Residential Land,25500,"Al Rusayl, Muscat",,324
+Villa,130000,"Ansab, Muscat",11.0,450
+Residential Land,8500,"Al Khaboura, Al Batinah",,627
+Residential Land,3500,"Suwaiq, Al Batinah",,640
+Apartment,129000,"The Wave (Almouj), Muscat",2.0,130
+Villa,26000,"Al Amarat, Muscat",4.0,315
+Chalet,59000,"Barka, Al Batinah",2.0,633
+Residential Land,9000,"Masira, Al Sharqiya",,600
+Residential Land,22222,"Saham, Al Batinah",,650
+Residential Land,7500,"Suwaiq, Al Batinah",,1
+Villa,93000,"Al Maabilah, Muscat",5.0,365
+Residential Land,18000,"Al Amarat, Muscat",,600
+Residential Land,60000,"Al Maabilah, Muscat",,600
+Residential Land,70000,"Sur, Al Sharqiya",,900
+Residential Land,95000,"Qurayyat, Muscat",,10
+Residential Land,14000,"Sumail, Al Dakhiliya",,750
+Residential Land,115000,"Al Maabilah, Muscat",,400
+Residential Land,37000,"Al Masn'a, Al Batinah",,1
+Residential Land,46000,"Al Amarat, Muscat",,612
+Apartment,9000,"Al Seeb, Muscat",1.0,48
+Residential Land,23000,"Al Amarat, Muscat",,600
+Apartment,22000,"Al Maabilah, Muscat",3.0,94
+Apartment,82000,"Salalah, Dhofar",2.0,81
+Apartment,24000,"Al Duqum, Al Wusta",1.0,40
+Residential Land,93000,"Al Rusayl, Muscat",,95
+Residential Land,1600,"Al Mazyona, Dhofar",,1
+Residential Land,95000,"Al Rusayl, Muscat",,1
+Villa,52000,"Barka, Al Batinah",4.0,254
+Apartment,31599,"Ansab, Muscat",3.0,91
+Residential Land,11500,"Sumail, Al Dakhiliya",,600
+Apartment,47500,"Bosher, Muscat",2.0,123
+Residential Land,14300,"Barka, Al Batinah",,600
+Residential Land,100,"Al Amarat, Muscat",,600
+Apartment,35000,"Al Maabilah, Muscat",3.0,118
+Residential Land,6600,"Bahla, Al Dakhiliya",,719
+Residential Land,7200,"Bahla, Al Dakhiliya",,668
+Villa,54000,"Barka, Al Batinah",5.0,327
+Villa,45000,"Barka, Al Batinah",4.0,600
+Villa,90000,"Al Amarat, Muscat",5.0,520
+Apartment,215000,"The Wave (Almouj), Muscat",2.0,157
+Residential Land,6000,"Saham, Al Batinah",,705
+Residential Land,11500,"Sumail, Al Dakhiliya",,600
+Residential Land,50000,"Hamra, Al Dakhiliya",,600
+Villa,140000,"Al Mawaleh, Muscat",7.0,10
+Residential Land,28000,"Al Masn'a, Al Batinah",,1
+Apartment,110000,"The Wave (Almouj), Muscat",2.0,130
+Residential Land,450000,"Al Seeb, Muscat",,1
+Residential Land,44000,"Al Seeb, Muscat",,600
+Residential Land,9200,"Al Buraimi, Al Buraimi",,767
+Residential Land,12200,"Al Buraimi, Al Buraimi",,851
+Residential Land,10900,"Sohar, Al Batinah",,1
+Residential Land,6000,"Ibra, Al Sharqiya",,600
+Residential Land,100,"Barka, Al Batinah",,1
+Residential Land,4500,"Ibri, Al Dhahirah",,630
+Residential Land,6600,"Nizwa, Al Dakhiliya",,662
+Residential Land,9000,"Bidbid, Al Dakhiliya",,643
+Residential Land,10000,"Al Amarat, Muscat",,600
+Villa,355000,"The Wave (Almouj), Muscat",4.0,465
+Residential Land,13500,"Sohar, Al Batinah",,600
+Residential Land,53000,"Al Maabilah, Muscat",,615
+Residential Land,30000,"Ja'alan Bani Bu Ali, Al Sharqiya",,200
+Residential Land,30000,"Salalah, Dhofar",,600
+Villa,145000,"Al Mawaleh, Muscat",5.0,601
+Residential Land,35000,"Al Amarat, Muscat",,400
+Residential Land,60000,"Bosher, Muscat",,600
+Residential Land,6500,"Sur, Al Sharqiya",,600
+Residential Land,60000,"Adam, Al Dakhiliya",,1
+Residential Land,14000,"Barka, Al Batinah",,611
+Apartment,45000,"Al Amarat, Muscat",2.0,108
+Villa,460000,"The Wave (Almouj), Muscat",6.0,600
+Villa,70000,"Al Amarat, Muscat",3.0,600
+Residential Land,62000,"Barka, Al Batinah",,1
+Villa,25000,"Al Mudaibi, Al Sharqiya",3.0,250
+Apartment,60000,"Bosher, Muscat",2.0,105
+Apartment,95000,"The Wave (Almouj), Muscat",1.0,88
+Apartment,30000,"Al Maabilah, Muscat",2.0,104
+Residential Land,121000,"Bosher, Muscat",,1
+Villa,60000,"Ruwi, Muscat",6.0,219
+Villa,52000,"Barka, Al Batinah",4.0,254
+Residential Land,73000,"Qurayyat, Muscat",,1
+Apartment,26500,"Al Seeb, Muscat",2.0,86
+Apartment,45000,"Al Ghubrah, Muscat",2.0,110
+Residential Land,25000,"Sumail, Al Dakhiliya",,600
+Residential Land,67000,"Al Seeb, Muscat",,673
+Residential Land,150000,"Qurayyat, Muscat",,1
+Residential Land,17900,"Al Amarat, Muscat",,627
+Residential Land,20000,"Ibri, Al Dhahirah",,799
+Residential Land,130000,"Al Maabilah, Muscat",,1
+Villa,69000,"Al Mawaleh, Muscat",4.0,300
+Residential Land,75000,"Al Khoud, Muscat",,500
+Villa,88500,"Al Seeb, Muscat",4.0,287
+Apartment,38000,"Al Khoud, Muscat",2.0,89
+Residential Land,13000,"Saham, Al Batinah",,634
+Villa,110000,"Muscat - Other, Muscat",8.0,272
+Residential Land,430000,"Qurayyat, Muscat",,8
+Residential Land,5000,"Nizwa, Al Dakhiliya",,660
+Residential Land,98000,"Al Khoud, Muscat",,600
+Residential Land,4200,"Al Rustaq, Al Batinah",,628
+Residential Land,28000,"Al Jazur, Al Wusta",,600
+Residential Land,90000,"Bosher, Muscat",,600
+Apartment,56000,"Madinat As Sultan Qaboos, Muscat",1.0,100
+Residential Land,23500,"Qurayyat, Muscat",,606
+Residential Land,35000,"Al Amarat, Muscat",,600
+Residential Land,6000,"Al Khaboura, Al Batinah",,634
+Apartment,16000,"Al Amarat, Muscat",3.0,149
+Residential Land,25000,"Wadi Al Ma'awal, Al Batinah",,507
+Residential Land,50000,"Barka, Al Batinah",,1
+Residential Land,20000,"Sumail, Al Dakhiliya",,600
+Residential Land,15000,"Al Amarat, Muscat",,667
+Residential Land,220000,"Darsait, Muscat",,600
+Residential Land,24500,"Barka, Al Batinah",,602
+Residential Land,11000,"Saham, Al Batinah",,660
+Residential Land,786,"Al Khuwair, Muscat",,786
+Villa,1000000,"The Wave (Almouj), Muscat",4.0,600
+Residential Land,135000,"Muscat - Other, Muscat",,7
+Residential Land,15000,"Al Amarat, Muscat",,642
+Residential Land,22000,"Barka, Al Batinah",,600
+Apartment,45000,"Qurum, Muscat",1.0,75
+Residential Land,500,"Al Khoud, Muscat",,5
+Residential Land,90000,"Barka, Al Batinah",,994
+Residential Land,18500,"Barka, Al Batinah",,687
+Residential Land,195000,"Barka, Al Batinah",,15
+Residential Land,320000,"Misfah, Muscat",,6
+Residential Land,400000,"Suwaiq, Al Batinah",,41
+Residential Land,28000,"Barka, Al Batinah",,765
+Residential Land,40000,"Al Mudaibi, Al Sharqiya",,414
+Residential Land,100,"Al Seeb, Muscat",,100
+Residential Land,23000,"Hamra, Al Dakhiliya",,648
+Residential Land,6500,"Ibri, Al Dhahirah",,840
+Villa,75000,"Al Seeb, Muscat",3.0,221
+Residential Land,59000,"Nizwa, Al Dakhiliya",,531
+Residential Land,6500,"Ibri, Al Dhahirah",,700
+Villa,1000,"Haima, Al Wusta",4.0,1
+Apartment,600,"Mahut, Al Wusta",1.0,10
+Residential Land,5800,"Nizwa, Al Dakhiliya",,600
+Villa,491410,"Yiti, Muscat",4.0,384
+Residential Land,7000,"Al Amarat, Muscat",,645
